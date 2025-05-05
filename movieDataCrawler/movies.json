@@ -1,1109 +1,2408 @@
 [
   {
-    "overview": "When her son vanishes inside a US consulate, ex-special forces soldier Sara does everything in her power to find him \u2014 and uncovers a dark conspiracy.",
-    "image": "https://image.tmdb.org/t/p/w500//qWTfHG8KdXwr0bqypYbNZLenh0J.jpg",
+    "overview": "兒子在美國領事館內失蹤，特種部隊退伍軍人薩哈竭盡一切所能尋找他，卻發現了黑暗陰謀。",
+    "image": "https://image.tmdb.org/t/p/w500/cqXc8PAlhx3xSjSYwfxqASrcg9l.jpg",
     "actors": [
-      "Jeanne Goursaud",
-      "Dougray Scott",
-      "Lera Abova",
-      "Emanuel Fellmer",
-      "Annabelle Mandeng"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/d8z3LEQGHCiZIRmMQD55Geq0iqM.jpg",
+        "character": "Sara",
+        "name": "Jeanne Goursaud"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/1fBd7n7s1Furk4kXN4YIcOD6mZb.jpg",
+        "character": "Eric Kynch",
+        "name": "道格瑞·史考特"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/tZHb1fZkIuMR7T4cWM62MncEzpC.jpg",
+        "character": "Irina / Kira",
+        "name": "Lera Abova"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/jnGUj2dy6xRuXTsBcmrti1N9B3l.jpg",
+        "character": "Moritz Aniol",
+        "name": "Emanuel Fellmer"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/sI86L95R8itsskyNkuqvQ0Ae4n6.jpg",
+        "character": "Deborah Allen",
+        "name": "Annabelle Mandeng"
+      }
     ],
     "year": "2025",
+    "release_date": "2025-04-29",
     "genres": [
       "Thriller",
       "Action"
     ],
+    "rating": 6.9,
     "link": "https://www.themoviedb.org/movie/1233069",
-    "title": "Exterritorial"
+    "title": "域外營救"
   },
   {
-    "overview": "Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.",
-    "image": "https://image.tmdb.org/t/p/w500//xUkUZ8eOnrOnnJAfusZUqKYZiDu.jpg",
+    "overview": "妻子過世之後，萊文凱德（傑森史塔森 飾）離開了皇家海軍陸戰隊，轉當建築工人。某天，萊文的老闆女兒離奇失蹤，於是拜託萊文運用他過去的技能幫忙找人，結果意外揭發了一個涉及政府與犯罪集團的龐大犯罪陰謀\u2026\u2026。",
+    "image": "https://image.tmdb.org/t/p/w500/8Z9Yd8NCUGfeTZIpCLTkkNs6KE0.jpg",
     "actors": [
-      "Jason Statham",
-      "Jason Flemyng",
-      "Merab Ninidze",
-      "Maximilian Osinski",
-      "Cokey Falkow"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/whNwkEQYWLFJA8ij0WyOOAD5xhQ.jpg",
+        "character": "Levon Cade",
+        "name": "傑森·史塔森"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/nYl0180ACnLzVlGbaAfuPtdGr9K.jpg",
+        "character": "Wolo Kolisnyk",
+        "name": "傑森·弗萊明"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/jnJ4lQULt6Ga3lXkIqAhMR7xYdE.jpg",
+        "character": "Yuri",
+        "name": "Merab Ninidze"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/wMRtFsZSR9FvYj1wzsziKQqpZ0C.jpg",
+        "character": "Dimi Kolisnyk",
+        "name": "Maximilian Osinski"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/2VEMBUOHKZbpypEuso8jyxSo3Yc.jpg",
+        "character": "Dougie",
+        "name": "Cokey Falkow"
+      }
     ],
     "year": "2025",
+    "release_date": "2025-03-26",
     "genres": [
       "Action",
       "Crime",
       "Thriller"
     ],
+    "rating": 6.491,
     "link": "https://www.themoviedb.org/movie/1197306",
-    "title": "A Working Man"
+    "title": "重裝制裁"
   },
   {
-    "overview": "In a career that lasted only ten years, Vincent Van Gogh painted one subject more than any other: himself. This is the story of Vincent told using eight of his most iconic self-portraits.",
-    "image": "https://image.tmdb.org/t/p/w500//z73X4WKZghBh5fri31o8P6vBEB2.jpg",
+    "overview": "在腐敗的城市裡，一樁毒品劫案出了致命差錯，厭世警察必須深入地下犯罪世界，拯救一位政治人物的兒子。",
+    "image": "https://image.tmdb.org/t/p/w500/w9abfQ7cULfGXhqWT35HUJE3ef0.jpg",
     "actors": [
-      "Zahra Ahmadi",
-      "Jack Etchells",
-      "Adam Woolley",
-      "Frances Christie",
-      "Neil Lebeter"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg",
+        "character": "Walker",
+        "name": "湯姆·哈迪"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/t7LmlgmjsqGNRj0sA4tthejP3yI.jpg",
+        "character": "Ellie",
+        "name": "Jessie Mei Li"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg",
+        "character": "Vincent",
+        "name": "提摩西·奧利芬"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg",
+        "character": "Lawrence Beaumont",
+        "name": "佛瑞斯·惠特克"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/xFmMBP5qtAiLDpbrziXOYdAkK7.jpg",
+        "character": "Charlie",
+        "name": "Justin Cornwell"
+      }
     ],
     "year": "2025",
+    "release_date": "2025-04-24",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "rating": 6.589,
+    "link": "https://www.themoviedb.org/movie/668489",
+    "title": "毒劫"
+  },
+  {
+    "overview": "(No Chinese description available)",
+    "image": "https://image.tmdb.org/t/p/w500/z73X4WKZghBh5fri31o8P6vBEB2.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/WlF6GWX98ilKoaaRwCR9cV97lX.jpg",
+        "character": "Narrator",
+        "name": "Zahra Ahmadi"
+      },
+      {
+        "image": "",
+        "character": "Theo van Gogh (voice)",
+        "name": "Jack Etchells"
+      },
+      {
+        "image": "",
+        "character": "Vincent van Gogh",
+        "name": "Adam Woolley"
+      },
+      {
+        "image": "",
+        "character": "Self",
+        "name": "Frances Christie"
+      },
+      {
+        "image": "",
+        "character": "Self",
+        "name": "Neil Lebeter"
+      }
+    ],
+    "year": "2025",
+    "release_date": "2025-03-26",
     "genres": ["Documentary"],
+    "rating": 6.594,
     "link": "https://www.themoviedb.org/movie/1471014",
     "title": "Van Gogh by Vincent"
   },
   {
-    "overview": "When a drug heist swerves lethally out of control, a jaded cop fights his way through a corrupt city's criminal underworld to save a politician's son.",
-    "image": "https://image.tmdb.org/t/p/w500//r46leE6PSzLR3pnVzaxx5Q30yUF.jpg",
+    "overview": "本片由傑克施雷爾執導，凱文費吉擔任製片人，「黑寡婦」史嘉蕾喬韓森擔任執行製片人，由佛蘿倫絲普伊飾演的新一代「黑寡婦」率先登場，陸續迎來其他在漫威電影宇宙中最不被期待的一群\u201d類\u201d反派成員組成團隊。  其中包括「酷寒戰士」、「幽靈」、「模仿大師」、「紅色衛兵」與\u201d被革職\u201d的「美國隊長」等，預告中還可以看到「伯爵夫人」瓦倫緹娜艾蕾格拉德芳亭。",
+    "image": "https://image.tmdb.org/t/p/w500/vU3Ir6FXUvHvm3ASYN7Wl0qhgLn.jpg",
     "actors": [
-      "Tom Hardy",
-      "Jessie Mei Li",
-      "Timothy Olyphant",
-      "Forest Whitaker",
-      "Justin Cornwell"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg",
+        "character": "Yelena Belova",
+        "name": "佛蘿倫絲·普伊"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg",
+        "character": "Bucky Barnes",
+        "name": "賽巴斯汀·史坦"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/2QK4qNUB5iyGSqoQBPM1F5bNUfo.jpg",
+        "character": "Valentina Allegra de Fontaine",
+        "name": "茱莉亞·路易絲卓佛"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/jAo0Rxl9EYVxLnhUlBww5Uxl89v.jpg",
+        "character": "Robert Reynolds",
+        "name": "路易斯·普曼"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/chPekukMF5SNnW6b22NbYPqAStr.jpg",
+        "character": "Alexei Shostakov",
+        "name": "大衛·哈伯"
+      }
     ],
     "year": "2025",
+    "release_date": "2025-04-30",
     "genres": [
       "Action",
-      "Crime",
-      "Thriller"
+      "Adventure",
+      "Science Fiction"
     ],
-    "link": "https://www.themoviedb.org/movie/668489",
-    "title": "Havoc"
+    "rating": 7.615,
+    "link": "https://www.themoviedb.org/movie/986056",
+    "title": "雷霆特攻隊＊"
   },
   {
-    "overview": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
-    "image": "https://image.tmdb.org/t/p/w500//iPPTGh2OXuIv6d7cwuoPkw8govp.jpg",
+    "overview": "四位邊緣人「垃圾人」蓋瑞森(傑森摩莫亞 飾)、亨利(賽巴斯汀尤金漢森 飾)、娜塔莉(愛瑪梅耶斯 飾)和譚恩(丹妮爾布魯克斯 飾)，突然被拉進一個神祕入口，進入充滿想像力又古怪的方塊仙境「主世界」中。為了回家，他們必須設法掌控這個世界，並與專業蓋房人史蒂夫(傑克布萊克 飾)，並一同踏上神奇的探索之旅。此趟冒險旅程將挑戰他們五人的勇氣，並重新激發他們每個人具有獨特創造力的特質，而這些正是他們返回現實世界成長茁壯所需的技能。",
+    "image": "https://image.tmdb.org/t/p/w500/rONvP6UsL1jaZyjrIquumYTZKvB.jpg",
     "actors": [
-      "Jason Momoa",
-      "Jack Black",
-      "Sebastian Eugene Hansen",
-      "Emma Myers",
-      "Danielle Brooks"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/3troAR6QbSb6nUFMDu61YCCWLKa.jpg",
+        "character": "Garrett",
+        "name": "傑森·摩莫亞"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg",
+        "character": "Steve",
+        "name": "傑克·布萊克"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/40HNkoB3RKPMPgLhTyKQU6kG0sc.jpg",
+        "character": "Henry",
+        "name": "Sebastian Eugene Hansen"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/xBJsFGAL3sOIxMUA0sMVEKKpAL4.jpg",
+        "character": "Natalie",
+        "name": "愛瑪·梅耶斯"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/dEonf59ukDW8LaN7vwj8WMmXrXf.jpg",
+        "character": "Dawn",
+        "name": "丹妮爾·布魯克斯"
+      }
     ],
     "year": "2025",
+    "release_date": "2025-03-31",
     "genres": [
       "Family",
       "Comedy",
       "Adventure",
       "Fantasy"
     ],
+    "rating": 6.2,
     "link": "https://www.themoviedb.org/movie/950387",
-    "title": "A Minecraft Movie"
+    "title": "MINECRAFT麥塊電影"
   },
   {
-    "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
-    "image": "https://image.tmdb.org/t/p/w500//vnfgoohSwKNOcRfJOPULXTvX0cu.jpg",
+    "overview": "在這場考驗智慧與意志的刺激挑戰中，手法高明的騙徒瑞翰策劃了鑽石竊案，企圖智取變態對手瑞贊。",
+    "image": "https://image.tmdb.org/t/p/w500/eujLbO0kf1eqWC8XpHUJdtAVW2J.jpg",
     "actors": [
-      "Florence Pugh",
-      "Sebastian Stan",
-      "Julia Louis-Dreyfus",
-      "Lewis Pullman",
-      "David Harbour"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/kzOy1DoCeLoKJ07nbYnQDObU3yY.jpg",
+        "character": "Rehan Roy",
+        "name": "賽伊夫·阿里·罕"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/enozGh9xcnJSQ8L4bIJ58kZDg6Z.jpg",
+        "character": "Rajan Aulakh",
+        "name": "Jaideep Ahlawat"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/6nvBBY4sl8KW4chr38Sm6M12RLX.jpg",
+        "character": "Farrah",
+        "name": "Nikita Dutta"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/zbaRdKXxH3ylrTdnMZfKqzJ1mOz.jpg",
+        "character": "Vikram Patel",
+        "name": "Kunal Kapoor"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/iboGvJPKZ98kU8YKgomn9Jpk0XN.jpg",
+        "character": "Jayant Roy",
+        "name": "Kulbhushan Kharbanda"
+      }
     ],
     "year": "2025",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ],
-    "link": "https://www.themoviedb.org/movie/986056",
-    "title": "Thunderbolts*"
-  },
-  {
-    "overview": "In this high-octane battle of wits and wills, ingenious con artist Rehan devises a diamond heist while trying to outsmart Rajan, his sadistic adversary.",
-    "image": "https://image.tmdb.org/t/p/w500//eujLbO0kf1eqWC8XpHUJdtAVW2J.jpg",
-    "actors": [
-      "Saif Ali Khan",
-      "Jaideep Ahlawat",
-      "Nikita Dutta",
-      "Kunal Kapoor",
-      "Kulbhushan Kharbanda"
-    ],
-    "year": "2025",
+    "release_date": "2025-04-25",
     "genres": [
       "Action",
       "Thriller"
     ],
+    "rating": 6.597,
     "link": "https://www.themoviedb.org/movie/1225915",
-    "title": "Jewel Thief: The Heist Begins"
+    "title": "珠寶大盜：神偷出馬"
   },
   {
-    "overview": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where she and her guide, the drifter Boyce, must outwit and outfight both man and demon.",
-    "image": "https://image.tmdb.org/t/p/w500//dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
+    "overview": "在「元老美國隊長」史蒂夫·羅傑斯功成身退後，原本美隊得力助手「獵鷹」山姆·威爾森受羅傑斯的推崇繼位，成為最新一任美國隊長！  然而山姆一接手，便迎頭對上如今蔚為總統的羅斯將軍，檯面上友好的兩人其實背後似乎暗藏著未知的陰謀，更加險惡的敵人卻還在前頭等著他們，在新世界新秩序衝突升級下，他能否奮力扛起盾牌！",
+    "image": "https://image.tmdb.org/t/p/w500/qp7WNCVAkS0nQu7RXrAzfYqDuNP.jpg",
     "actors": [
-      "Milla Jovovich",
-      "Dave Bautista",
-      "Arly Jover",
-      "Amara Okereke",
-      "Fraser James"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg",
+        "character": "Sam Wilson / Captain America",
+        "name": "安東尼·麥基"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/zVnHagUvXkR2StdOtquEwsiwSVt.jpg",
+        "character": "President Thaddeus Ross",
+        "name": "哈里遜·福特"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/1CMMfxwMYOme8AOrl4kZS12nJpM.jpg",
+        "character": "Joaquin Torres",
+        "name": "丹尼·拉米瑞茲"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/5mfd9yKnbo2ZjU42vmqVMgvTJ8r.jpg",
+        "character": "Ruth Bat-Seraph",
+        "name": "希拉·哈斯"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg",
+        "character": "Samuel Sterns",
+        "name": "提摩西·布萊克·尼爾森"
+      }
     ],
     "year": "2025",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Adventure"
-    ],
-    "link": "https://www.themoviedb.org/movie/324544",
-    "title": "In the Lost Lands"
-  },
-  {
-    "overview": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
-    "image": "https://image.tmdb.org/t/p/w500//pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
-    "actors": [
-      "Anthony Mackie",
-      "Harrison Ford",
-      "Danny Ramirez",
-      "Shira Haas",
-      "Tim Blake Nelson"
-    ],
-    "year": "2025",
+    "release_date": "2025-02-12",
     "genres": [
       "Action",
       "Thriller",
       "Science Fiction"
     ],
+    "rating": 6.157,
     "link": "https://www.themoviedb.org/movie/822119",
-    "title": "Captain America: Brave New World"
+    "title": "美國隊長：無畏新世界"
   },
   {
-    "overview": "A newly appointed small-town sheriff and his begrudging deputy get tangled up in a web of lies and corruption involving shady businessmen and the cartel while investigating the murder of a mysterious woman.",
-    "image": "https://image.tmdb.org/t/p/w500//S21BfLrJSD9njucBfY3CKqp8rD.jpg",
+    "overview": "女王蕾妮拉渴望獲得變身為狼人的能力，遂委託擁有強大法力的女巫姬·艾莉絲（Gray Alys）尋找並獵殺一頭狼人。\u200b姬·艾莉絲與獵人波伊斯（Boyce）踏上危險旅程，深入荒蕪之地，展開一場探索善與惡、愛與背叛的冒險。",
+    "image": "https://image.tmdb.org/t/p/w500/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
     "actors": [
-      "Kellan Lutz",
-      "Cam Gigandet",
-      "Chad Michael Collins"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/usWnHCzbADijULREZYSJ0qfM00y.jpg",
+        "character": "Gray Alys",
+        "name": "蜜拉·喬娃維琪"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg",
+        "character": "Boyce",
+        "name": "戴夫·巴帝斯塔"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/zmznPrQ9GSZwcOIUT0c3GyETwrP.jpg",
+        "character": "Ash",
+        "name": "Arly Jover"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/nTSPtzWu6deZTJtWXHUpACVznY4.jpg",
+        "character": "Melange",
+        "name": "Amara Okereke"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/mGAPQG2OKTgdKFkp9YpvCSqcbgY.jpg",
+        "character": "Patriarch Johan",
+        "name": "Fraser James"
+      }
     ],
     "year": "2025",
+    "release_date": "2025-02-27",
     "genres": [
       "Action",
-      "Crime",
-      "Mystery",
-      "Thriller"
+      "Fantasy",
+      "Adventure"
     ],
-    "link": "https://www.themoviedb.org/movie/1180906",
-    "title": "Desert Dawn"
+    "rating": 6.353,
+    "link": "https://www.themoviedb.org/movie/324544",
+    "title": "魔域女巫"
   },
   {
-    "overview": "Put-upon lawman John Dorsey is on the verge of losing his wife and his job as sheriff, so he posses up with bullish U.S. Marshall Butch Hayden to hold outlaw Emily Rusk hostage. A battle of wills ensues as Emily turns the posse on themselves, but as her marauding husband and his gang approach, Emily and John realize they will need each other to survive.",
-    "image": "https://image.tmdb.org/t/p/w500//cVSjSQryFUERYSdOmdgJ2m0eBte.jpg",
+    "overview": "艾略特（保羅·路德 Paul Rudd 飾）和女兒雷德利（詹娜·奧爾特加 Jenna Ortega 飾）週末出行時，遇到了身為製藥公司巨頭的老闆一家，他們無意間撞上了一隻獨角獸，製藥公司的科學家發現獨角獸的血肉可以入藥，尤其它的角具有超自然的治療特性，老闆的家族打起了這隻獨角獸的主意\u2026\u2026",
+    "image": "https://image.tmdb.org/t/p/w500/lXR32JepFwD1UHkplWqtBP1K79z.jpg",
     "actors": [
-      "Zach Roerig",
-      "Billy Zane",
-      "Cara Jade Myers",
-      "Scott Adkins",
-      "Trace Adkins"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/7oUAtVgZU0uLdUSvDHKkINt1y7Y.jpg",
+        "character": "Ridley",
+        "name": "珍娜·奧特嘉"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg",
+        "character": "Elliot",
+        "name": "保羅·路德"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/9blYMaj79VGC6BHTLmJp3V5S8r3.jpg",
+        "character": "Shepard",
+        "name": "Will Poulter"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/6UXv8E4WWvRCKMQx1FQ0FJVyu0a.jpg",
+        "character": "Odell",
+        "name": "理查·E·格蘭特"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/vWijsKTlNs9bgKdUVgsr2w4msGo.jpg",
+        "character": "Belinda",
+        "name": "Téa Leoni"
+      }
     ],
     "year": "2025",
-    "genres": [
-      "Western",
-      "Action"
-    ],
-    "link": "https://www.themoviedb.org/movie/1414048",
-    "title": "Day of Reckoning"
-  },
-  {
-    "overview": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature\u2019s miraculous curative properties.",
-    "image": "https://image.tmdb.org/t/p/w500//lXR32JepFwD1UHkplWqtBP1K79z.jpg",
-    "actors": [
-      "Jenna Ortega",
-      "Paul Rudd",
-      "Will Poulter",
-      "Richard E. Grant",
-      "Téa Leoni"
-    ],
-    "year": "2025",
+    "release_date": "2025-03-27",
     "genres": [
       "Horror",
       "Fantasy",
       "Comedy",
       "Adventure"
     ],
+    "rating": 6.253,
     "link": "https://www.themoviedb.org/movie/1153714",
-    "title": "Death of a Unicorn"
+    "title": "獨角獸之死"
   },
   {
-    "overview": "An orphaned girl is rescued from a satanic ritual and taken to Saint Catherine Institute for homeless youth. There she will learn new skills while facing demons that stalk her.",
-    "image": "https://image.tmdb.org/t/p/w500//hBJdzKPeDaC96AzlrtMWBomYSZV.jpg",
+    "overview": "(No Chinese description available)",
+    "image": "https://image.tmdb.org/t/p/w500/cVSjSQryFUERYSdOmdgJ2m0eBte.jpg",
     "actors": [
-      "Raymond E. Lee",
-      "Pachi Lucas",
-      "Julia Kraiselburd",
-      "Emilia Mayo"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/fjNS8QTDnGsuoOz66aP6JlN93FQ.jpg",
+        "character": "John Dorsey",
+        "name": "Zach Roerig"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/wr4fuwLzQvW1G0MS7cmQ3ObFjvL.jpg",
+        "character": "Butch Hayden",
+        "name": "比利·贊恩"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/5oHV0iqIja1qmX5cKyQHWA0eVXB.jpg",
+        "character": "Emily Rusk",
+        "name": "Cara Jade Myers"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg",
+        "character": "Kyle Rusk",
+        "name": "史考特·艾金斯"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/9MMbYFI0WL2rp5iQG9DeYL0Pgvl.jpg",
+        "character": "Big Buck",
+        "name": "Trace Adkins"
+      }
     ],
     "year": "2025",
+    "release_date": "2025-03-28",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "rating": 6.5,
+    "link": "https://www.themoviedb.org/movie/1414048",
+    "title": "Day of Reckoning"
+  },
+  {
+    "overview": "(No Chinese description available)",
+    "image": "https://image.tmdb.org/t/p/w500/hBJdzKPeDaC96AzlrtMWBomYSZV.jpg",
+    "actors": [
+      {
+        "image": "",
+        "character": "",
+        "name": "Raymond E. Lee"
+      },
+      {
+        "image": "",
+        "character": "",
+        "name": "Pachi Lucas"
+      },
+      {
+        "image": "",
+        "character": "",
+        "name": "Julia Kraiselburd"
+      },
+      {
+        "image": "",
+        "character": "",
+        "name": "Emilia Mayo"
+      }
+    ],
+    "year": "2025",
+    "release_date": "2025-04-11",
     "genres": ["Horror"],
+    "rating": 6.333,
     "link": "https://www.themoviedb.org/movie/1356236",
     "title": "Saint Catherine"
   },
   {
-    "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-    "image": "https://image.tmdb.org/t/p/w500//jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg",
+    "overview": "(No Chinese description available)",
+    "image": "https://image.tmdb.org/t/p/w500/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg",
     "actors": [
-      "Michael B. Jordan",
-      "Miles Caton",
-      "Hailee Steinfeld",
-      "Wunmi Mosaku",
-      "Jack O'Connell"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg",
+        "character": "Harland Rust",
+        "name": "亞歷·鮑德溫"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/gPcG3xAnuUP9pMxGWkhb5nQqOPQ.jpg",
+        "character": "Wood Helm",
+        "name": "Josh Hopkins"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/7k3CdEaPExlEmkgQvtQInI5cGr2.jpg",
+        "character": "Lucas Hollister",
+        "name": "Patrick Scott McDermott"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/i6wEoE9P6PgYe75g6QT8Y7JjX6n.jpg",
+        "character": "Fenton 'Preacher' Lang",
+        "name": "Travis Fimmel"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/3iNDgd54IIj8g8hGqhhUjM6TeWd.jpg",
+        "character": "Evelyn Basset",
+        "name": "法蘭西絲·費雪"
+      }
     ],
     "year": "2025",
+    "release_date": "2025-05-01",
+    "genres": ["Western"],
+    "rating": 6.8,
+    "link": "https://www.themoviedb.org/movie/710258",
+    "title": "Rust"
+  },
+  {
+    "overview": "(No Chinese description available)",
+    "image": "https://image.tmdb.org/t/p/w500/S21BfLrJSD9njucBfY3CKqp8rD.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/pLzdFABlU6oS2BvlHlAN990woY1.jpg",
+        "character": "Luke Easton",
+        "name": "Kellan Lutz"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg",
+        "character": "John Sites",
+        "name": "Cam Gigandet"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/9lcEpAYRBCylYIVMZYXHqfmRzfP.jpg",
+        "character": "Jack Danes",
+        "name": "查德·邁克爾·柯林斯"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/zPzagAtKxbHKrQLAQ69KSYLZxjA.jpg",
+        "character": "Sal Read",
+        "name": "Texas Battle"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/fgmxWHKESApKHtu1Rar0iCVi6if.jpg",
+        "character": "Ezra Craft",
+        "name": "Mike Ferguson"
+      }
+    ],
+    "year": "2025",
+    "release_date": "2025-05-15",
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 0,
+    "link": "https://www.themoviedb.org/movie/1180906",
+    "title": "Desert Dawn"
+  },
+  {
+    "overview": "「夜路走多的人，有天會發現有東西跟著你回家\u2026」 雙胞胎兄弟（麥可·B·喬丹　飾演）試圖擺脫不愉快的過往，回到家鄉想重新開始，但卻發現更為恐怖的邪惡勢力正等待著他們的回歸\u2026",
+    "image": "https://image.tmdb.org/t/p/w500/9hRm4WVM3D5HzjMBTKSsPBOd50c.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/hz9AOUWZ2zzS0dpPJ1yQv2grA35.jpg",
+        "character": "Smoke / Stack",
+        "name": "麥可·B·喬丹"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/5uG9uoRn6THwZpEN4EHawdIf9uX.jpg",
+        "character": "Sammie Moore",
+        "name": "Miles Caton"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/dxSDWkiVaC6JYjrV3XRAZI7HOSS.jpg",
+        "character": "Mary",
+        "name": "海莉·史坦菲德"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/3luASowlC8eI8mDhbbepqTHxczK.jpg",
+        "character": "Annie",
+        "name": "烏米·馬薩庫"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/tCzR4clrIkbkijuJBYsNoEuwRDa.jpg",
+        "character": "Remmick",
+        "name": "傑克·歐康納"
+      }
+    ],
+    "year": "2025",
+    "release_date": "2025-04-16",
     "genres": [
       "Horror",
       "Music",
       "Thriller"
     ],
+    "rating": 7.615,
     "link": "https://www.themoviedb.org/movie/1233413",
-    "title": "Sinners"
+    "title": "罪人"
   },
   {
-    "overview": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.",
-    "image": "https://image.tmdb.org/t/p/w500//yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg",
+    "overview": "史蒂芬妮華德 與愛蜜莉尼爾森 為了參加愛蜜莉嫁給義大利富商的豪華婚禮，在義大利的美麗小島卡布里重逢。現場除了賓客冠蓋雲集，不請自來的還有謀殺與背叛，劇情不斷逆轉，比起大港到卡布里廣場的小徑還要蜿蜒曲折。",
+    "image": "https://image.tmdb.org/t/p/w500/A9S8mSnjGckK5wccIfaThDUvC5E.jpg",
     "actors": [
-      "Theo James",
-      "Tatiana Maslany",
-      "Christian Convery",
-      "Colin O'Brien",
-      "Adam Scott"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/yirl6fEmeXY5xcvJw3nTcCNq9Cw.jpg",
+        "character": "Stephanie Smothers",
+        "name": "安娜·坎卓克"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/oWQG50XE8uTYYskUOs5LLj4dMZS.jpg",
+        "character": "Emily Nelson",
+        "name": "布蕾克·萊芙莉"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/saKjzGAuw8Fiutlv9LweLjAti0Z.jpg",
+        "character": "Dante Versano",
+        "name": "Michele Morrone"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/iiTLFGXgMrobajYvgpvZxQNqFvy.jpg",
+        "character": "Sean Townsend",
+        "name": "Henry Golding"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg",
+        "character": "Aunt Linda McLanden",
+        "name": "艾莉森·珍妮"
+      }
     ],
     "year": "2025",
+    "release_date": "2025-03-07",
+    "genres": [
+      "Thriller",
+      "Comedy",
+      "Crime"
+    ],
+    "rating": 6.369,
+    "link": "https://www.themoviedb.org/movie/974573",
+    "title": "再幫個小忙"
+  },
+  {
+    "overview": "雙胞胎兄弟哈爾和比爾（席歐詹姆斯分飾），找到一隻父親的舊玩具猴子，但兩人隨後發現，這隻猴子似乎伴隨著邪惡詛咒，每當發條轉動，身邊就會發生一連串駭人死亡事故，讓心愛的人一個個死去\u2026。為了擺脫這場噩夢，兄弟兩人決定將它丟棄，並各自過上新的生活。沒想到多年過去，不明連環死亡事故再度發生，讓哈爾不得不與比爾再度聯手，試圖找到徹底摧毀這隻猴子的方法\u2026。",
+    "image": "https://image.tmdb.org/t/p/w500/xN91UrqXCAwfYDjf9a2zYgFLFeP.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/lSC4cMhcQeCjPFkK6qCjSGDSeR3.jpg",
+        "character": "Hal / Bill",
+        "name": "席歐·詹姆斯"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/mVdss3kBhKiWYWFFcrdOSAAfwC0.jpg",
+        "character": "Lois Shelburn",
+        "name": "塔提阿娜·瑪斯蘭尼"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/c1l5tNjmxzDAIaTHvzEfooUsAf8.jpg",
+        "character": "Young Hal / Young Bill",
+        "name": "克利斯汀・康佛瑞"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/qF38oBiO1b7nEua71FY2XfIayZl.jpg",
+        "character": "Petey",
+        "name": "Colin O'Brien"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg",
+        "character": "Capt. Petey Shelburn",
+        "name": "亞當·史考特"
+      }
+    ],
+    "year": "2025",
+    "release_date": "2025-02-14",
     "genres": [
       "Horror",
       "Comedy"
     ],
+    "rating": 5.902,
     "link": "https://www.themoviedb.org/movie/1124620",
-    "title": "The Monkey"
+    "title": "史蒂芬金之猴子"
   },
   {
-    "overview": "When panic erupts on a Tokyo-bound bullet train that will explode if it slows below 100 kph, authorities race against time to save everyone on board.",
-    "image": "https://image.tmdb.org/t/p/w500//uxYMN7egzwU9dQWmlm9tVTVpBbe.jpg",
+    "overview": "一班開往東京的子彈列車如果時速低於 100 公里就會爆炸，車上乘客頓時陷入恐慌，而當局必須與時間賽跑，讓所有人平安回家。",
+    "image": "https://image.tmdb.org/t/p/w500/dFJryGIGKKSgxVAFuJAbaJA0zW2.jpg",
     "actors": [
-      "Tsuyoshi Kusanagi",
-      "Kanata Hosoda",
-      "Non",
-      "Jun Kaname",
-      "Machiko Ono"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/bDkJE3o9Jzl2UGUgmEGVjxuIWP7.jpg",
+        "character": "Kazuya Takaichi",
+        "name": "草彅剛"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/yGD1ENVq3sRsOyPDtZMFIynXDUc.jpg",
+        "character": "Yuko Kagami",
+        "name": "尾野真千子"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/z8W2Mv9IdEHYG4qprMdbTgKxjkc.jpg",
+        "character": "Mitsuru Todoroki",
+        "name": "要潤"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/zite7ZiZa4etzzUA5W9QmuQcJzF.jpg",
+        "character": "Chika Matsumoto",
+        "name": "能年玲奈"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/rTNWJDMqsQICpopd6Nj1uHfa88s.jpg",
+        "character": "Keiji Fujii",
+        "name": "細田佳央太"
+      }
     ],
     "year": "2025",
+    "release_date": "2025-04-23",
     "genres": [
       "Action",
       "Thriller",
       "Crime",
       "Drama"
     ],
+    "rating": 6.851,
     "link": "https://www.themoviedb.org/movie/1276073",
-    "title": "Bullet Train Explosion"
+    "title": "新幹線驚爆倒數"
   },
   {
-    "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
-    "image": "https://image.tmdb.org/t/p/w500//vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "overview": "第一次約會已經夠讓人緊張了，如果在第一次約會的時候，有一個匿名而且看不見的網路酸民不斷把非常私密的梗圖傳給你，而這些梗圖從有點煩人逐漸升級到威脅殺人的程度呢?那絕對會讓你不寒而慄。",
+    "image": "https://image.tmdb.org/t/p/w500/AgEK76jottRLnC6Zs5LKXlHutU.jpg",
     "actors": [
-      "Tom Skerritt",
-      "Sigourney Weaver",
-      "Veronica Cartwright",
-      "Harry Dean Stanton",
-      "John Hurt"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/vn1JwgdLoFerqqgzcg61tgCJ0ZE.jpg",
+        "character": "Violet",
+        "name": "梅根·費伊"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/6e4ixMQZVTMfTaUyGZoP6Lpn9nT.jpg",
+        "character": "Henry",
+        "name": "Brandon Sklenar"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/tkTXHlN33a0lIXisQHy4zPKWsj5.jpg",
+        "character": "Jen",
+        "name": "維奧莉·畢恩"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/6VZFkAHqQzu7nqJIPsvjb1sp9iv.jpg",
+        "character": "Toby",
+        "name": "Jacob Robinson"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/z3ESNaXSeHiGmmhm49Og9FeXwG8.jpg",
+        "character": "Richard",
+        "name": "Reed Diamond"
+      }
+    ],
+    "year": "2025",
+    "release_date": "2025-04-10",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 6.6,
+    "link": "https://www.themoviedb.org/movie/1249213",
+    "title": "無線殺機"
+  },
+  {
+    "overview": "這是影史上的一部經典科幻片，並且獲得奧斯卡最佳視覺效果獎。雪歌妮薇佛份演硬朗女長官蕾普莉，她和下屬乘坐商用太空船，在不知名的星球探險，下屬回到船上才發現一頭嗜血怪物上了船，從此無寧日，恐怖事件接二連三登場\u2026.。",
+    "image": "https://image.tmdb.org/t/p/w500/sz3BuGc2gfAboxQ1dIrXII2wfsQ.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/oWFCyBLm1lsbsbT5Nmx3SPMaqFZ.jpg",
+        "character": "Dallas",
+        "name": "湯姆·史基瑞"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg",
+        "character": "Ripley",
+        "name": "雪歌妮·薇佛"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/wIqQnSU4HJLYS2JE4S6jjyb2jMP.jpg",
+        "character": "Lambert",
+        "name": "Veronica Cartwright"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/197UiLVdxPOv8196sqmUpJzOQB5.jpg",
+        "character": "Brett",
+        "name": "Harry Dean Stanton"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg",
+        "character": "Kane",
+        "name": "約翰·赫特"
+      }
     ],
     "year": "1979",
+    "release_date": "1979-05-25",
     "genres": [
       "Horror",
       "Science Fiction"
     ],
+    "rating": 8.163,
     "link": "https://www.themoviedb.org/movie/348",
-    "title": "Alien"
+    "title": "異形"
   },
   {
-    "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
-    "image": "https://image.tmdb.org/t/p/w500//aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+    "overview": "故事描述在未來2049年時，複製人奴隸已成為文明躍進過程的關鍵，儘管掌權者試圖築起高牆以區分人種，但人造人與真實人類的界線卻越趨模糊、真假難分，引發正反兩面的一連串影響。  由萊恩葛斯林飾演的銀翼殺手K，為阻止現況演變成不可挽救的局面，因此踏上尋找掌握重要線索的關鍵人物、由哈里遜福特飾演的第一代銀翼殺手瑞克戴克之路，欲挖掘隱匿許久的事實真相。兩代銀翼殺手將聯手抗衡強大反派的追殺，與破解隱藏背後的秘密詭計。",
+    "image": "https://image.tmdb.org/t/p/w500/dVLmr7nHOxI6iQNXtsfa1yrYO8Z.jpg",
     "actors": [
-      "Robert De Niro",
-      "Ray Liotta",
-      "Joe Pesci",
-      "Lorraine Bracco",
-      "Paul Sorvino"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/asoKC7CLCqpZKZDL6iovNurQUdf.jpg",
+        "character": "'K'",
+        "name": "雷恩·葛斯林"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/zVnHagUvXkR2StdOtquEwsiwSVt.jpg",
+        "character": "Rick Deckard",
+        "name": "哈里遜·福特"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/3vxvsmYLTf4jnr163SUlBIw51ee.jpg",
+        "character": "Joi",
+        "name": "安娜·德哈瑪絲"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg",
+        "character": "Sapper Morton",
+        "name": "戴夫·巴帝斯塔"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg",
+        "character": "Lieutenant Joshi",
+        "name": "羅賓·懷特"
+      }
     ],
-    "year": "1990",
+    "year": "2017",
+    "release_date": "2017-10-04",
     "genres": [
-      "Drama",
-      "Crime"
+      "Science Fiction",
+      "Drama"
     ],
-    "link": "https://www.themoviedb.org/movie/769",
-    "title": "GoodFellas"
+    "rating": 7.579,
+    "link": "https://www.themoviedb.org/movie/335984",
+    "title": "銀翼殺手2049"
   },
   {
-    "overview": "Stephanie and Emily reunite on the beautiful island of Capri, Italy for Emily's extravagant wedding to a rich Italian businessman. Along with the glamorous guests, expect murder and betrayal to RSVP for a wedding with more twists and turns than the road from the Marina Grande to the Capri town square.",
-    "image": "https://image.tmdb.org/t/p/w500//zboCGZ4aIqPMd7VFI4HWnmc7KYJ.jpg",
+    "overview": "【敦克爾克大行動】以第二次世界大戰初期為背景，敘述 40萬名英軍與盟軍士兵遭受敵軍團團包圍，他們受困在臨海的最後據點：敦克爾克，當敵軍不斷地進逼，這群士兵陷入無路可逃的困境，而家就在隔著大海的 26 英哩之外。當這 40萬士兵無法回家，家迎向了他們\u2026。英國出動 933艘各式大小船艦，冒著無情的戰火，出發拯救這群士兵。",
+    "image": "https://image.tmdb.org/t/p/w500/y8nvZPcNzuAIjWjplDiPeS4WZ6c.jpg",
     "actors": [
-      "Anna Kendrick",
-      "Blake Lively",
-      "Michele Morrone",
-      "Henry Golding",
-      "Allison Janney"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/2JjRhwG6BEWeF4n9TlvDEDzlP5P.jpg",
+        "character": "Tommy",
+        "name": "Fionn Whitehead"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg",
+        "character": "Farrier",
+        "name": "湯姆·哈迪"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/bztEZRyXrvW3Pg1fexNASXlZrq7.jpg",
+        "character": "Mr. Dawson",
+        "name": "Mark Rylance"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg",
+        "character": "Commander Bolton",
+        "name": "肯尼斯·布萊納"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/llkbyWKwpfowZ6C8peBjIV9jj99.jpg",
+        "character": "Shivering Soldier",
+        "name": "席尼·墨菲"
+      }
     ],
-    "year": "2025",
+    "year": "2017",
+    "release_date": "2017-07-19",
     "genres": [
-      "Thriller",
-      "Comedy",
-      "Crime"
+      "War",
+      "Action",
+      "Drama"
     ],
-    "link": "https://www.themoviedb.org/movie/974573",
-    "title": "Another Simple Favor"
+    "rating": 7.45,
+    "link": "https://www.themoviedb.org/movie/374720",
+    "title": "敦克爾克大行動"
   },
   {
-    "overview": "The story follows Carol Danvers as she becomes one of the universe\u2019s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
-    "image": "https://image.tmdb.org/t/p/w500//AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+    "overview": "原是空軍飛行員的卡蘿丹佛斯，在克里星球甦醒並失去了過往所有的記憶，她獲得驚人的超人力量，受軍隊的最高指揮官與導師揚羅格(裘德洛 飾演)指導，以克里人的身分戰鬥，與菁英軍事單位「星際部隊」成員共同對抗史克魯人的侵略；不過在最新的任務中，她為了抵抗外星入侵，意外到訪C-53星球的地球，與神盾局長尼克福瑞一起聯手尋找羅森博士的下落。",
+    "image": "https://image.tmdb.org/t/p/w500/dfkPx9scDnzUhYqxzgr5RVn5rIy.jpg",
     "actors": [
-      "Brie Larson",
-      "Samuel L. Jackson",
-      "Ben Mendelsohn",
-      "Jude Law",
-      "Annette Bening"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/xSGvMwNNJcEQvVcjiIUTyxyMfkZ.jpg",
+        "character": "Carol Danvers / Vers / Captain Marvel",
+        "name": "布麗·拉森"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg",
+        "character": "Nick Fury",
+        "name": "山繆·傑克森"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/uRB2ufOpCNun8G1LPsZJPnfhavb.jpg",
+        "character": "Talos / Keller",
+        "name": "班·曼德森"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/9H577IoqFgCXonDzR3QEkF2xo5m.jpg",
+        "character": "Yon-Rogg",
+        "name": "裘德·洛"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/sBiiRwAVXd0FCRZ87m0I89qGBvy.jpg",
+        "character": "Supreme Intelligence / Dr. Wendy Lawson",
+        "name": "Annette Bening"
+      }
     ],
     "year": "2019",
+    "release_date": "2019-03-06",
     "genres": [
       "Action",
       "Adventure",
       "Science Fiction"
     ],
+    "rating": 6.801,
     "link": "https://www.themoviedb.org/movie/299537",
-    "title": "Captain Marvel"
+    "title": "驚奇隊長"
   },
   {
-    "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
-    "image": "https://image.tmdb.org/t/p/w500//gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+    "overview": "藉由一個在約紐布魯克林區長大的少年亨利，他一心一意想這入黑手黨，可是他一開如也只能從一個跑腳的開始，除非取得保利的信任，不然他不可能再進一個階段，進入所謂的「family」裡頭\u2026 老一輩的黑手黨如保利，謹守道上的行規──榮譽、忠誠、不碰毒品、除非必要不殺人。可是到了七○年代，新崛起的黑道人詹姆士、吉米 和亨利根本不甩這一套，甚至想把保利取而代之\u2026",
+    "image": "https://image.tmdb.org/t/p/w500/o3tPJhTFVTPWGBpTpVZ4agqgmTJ.jpg",
     "actors": [
-      "Ryan Gosling",
-      "Harrison Ford",
-      "Ana de Armas",
-      "Dave Bautista",
-      "Robin Wright"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg",
+        "character": "James Conway",
+        "name": "勞勃·狄尼洛"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/jdwGJbJNSRQiG2kB5MJxiu2clCQ.jpg",
+        "character": "Henry Hill",
+        "name": "Ray Liotta"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/1WHLXwT0TDZDWFVRcFve1B0EjNK.jpg",
+        "character": "Tommy DeVito",
+        "name": "Joe Pesci"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/cmVcc09jfmoOqGLY595aBQu3IsP.jpg",
+        "character": "Karen Hill",
+        "name": "洛琳·布萊克"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/1gF0UskusEdDcNaBDJ2CMsz5Agi.jpg",
+        "character": "Paul Cicero",
+        "name": "Paul Sorvino"
+      }
     ],
-    "year": "2017",
+    "year": "1990",
+    "release_date": "1990-09-12",
     "genres": [
-      "Science Fiction",
-      "Drama"
+      "Drama",
+      "Crime"
     ],
-    "link": "https://www.themoviedb.org/movie/335984",
-    "title": "Blade Runner 2049"
+    "rating": 8.456,
+    "link": "https://www.themoviedb.org/movie/769",
+    "title": "四海好傢伙"
   },
   {
-    "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
-    "image": "https://image.tmdb.org/t/p/w500//v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+    "overview": "由神力女超人（Gal Gadot 飾）拿起第一次世界大戰與夥伴拍攝的照片看起，回憶當年她是如何進入這個人類的世界：在她成為世人熟知的神力女超人前，她是一名從小接受嚴格訓練的亞馬遜英勇戰士：黛安娜，與族人們一起居住在與世隔絕的天堂島上。直到有一天，一名墜機在附近海域上的美國飛行員告訴她：「小島以外的世界，正經歷著一場大規模的武力衝突。」眼看著武裝部隊踏上天堂島，黛安娜知道自己的家園將不會再是一個世外桃源，無法坐視無辜者喪命的黛安娜毅然決定離開，她深信自己有能力阻止這場戰爭。在第一次世界大戰中她挺身為正義而戰，黛安娜將發現自己真正的力量與她與生俱來的天命。",
+    "image": "https://image.tmdb.org/t/p/w500/cTeBX7nfyATuJQxsMJreJA2A8K2.jpg",
     "actors": [
-      "Gal Gadot",
-      "Chris Pine",
-      "Connie Nielsen",
-      "Robin Wright",
-      "Danny Huston"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/qCJB1ACi5VjtY4ypXuv3hjAvbSu.jpg",
+        "character": "Diana Prince / Wonder Woman",
+        "name": "蓋兒·加朵"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/d8hGMH1igEFnpNFEEFdP3yFHV3U.jpg",
+        "character": "Steve Trevor",
+        "name": "克里斯·潘恩"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/lvQypTfeH2Gn2PTbzq6XkT2PLmn.jpg",
+        "character": "Hippolyta",
+        "name": "康妮·尼爾森"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg",
+        "character": "Antiope",
+        "name": "羅賓·懷特"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/7Wdh73SltnllH4KVd64PvqKQ5NJ.jpg",
+        "character": "Ludendorff",
+        "name": "丹尼·休斯頓"
+      }
     ],
     "year": "2017",
+    "release_date": "2017-05-30",
     "genres": [
       "Action",
       "Adventure",
       "Fantasy"
     ],
+    "rating": 7.216,
     "link": "https://www.themoviedb.org/movie/297762",
-    "title": "Wonder Woman"
+    "title": "神力女超人"
   },
   {
-    "overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
-    "image": "https://image.tmdb.org/t/p/w500//kwB7d51AIcyzPOBOHLCEZJkmPhQ.jpg",
+    "overview": "(No Chinese description available)",
+    "image": "https://image.tmdb.org/t/p/w500/l4gsNxFPGpzbq0D6QK1a8vO1lBz.jpg",
     "actors": [
-      "Scarlett Johansson",
-      "Florence Pugh",
-      "Rachel Weisz",
-      "David Harbour",
-      "Ray Winstone"
-    ],
-    "year": "2021",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ],
-    "link": "https://www.themoviedb.org/movie/497698",
-    "title": "Black Widow"
-  },
-  {
-    "overview": "International assassin Walker is compromised during a mission and sent to a reassignment center for a new identity. During his stay at the facility, a ruthless assault team storms the compound searching for someone their boss has lost. Walker begrudgingly falls in with skilled hitwoman Elda and her mysterious ward Juliet in order to survive the night.",
-    "image": "https://image.tmdb.org/t/p/w500//hVh4hMzkXNLnScudbid6hDvjMPk.jpg",
-    "actors": [
-      "Daniel Stisen",
-      "Lauren Okadigbo",
-      "Yennis Cheung",
-      "Byron Gibson",
-      "Steven Blades"
-    ],
-    "year": "2023",
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "link": "https://www.themoviedb.org/movie/1092899",
-    "title": "The Siege"
-  },
-  {
-    "overview": "Violet, a widowed mother on her first date in years, arrives at an upscale restaurant where she is relieved that her date, Henry, is more charming and handsome than she expected. But their chemistry begins to curdle as Violet begins being irritated and then terrorized by a series of anonymous drops to her phone.",
-    "image": "https://image.tmdb.org/t/p/w500//dS2S5lpfgRIRQOb7LDCjNsQqKjp.jpg",
-    "actors": [
-      "Meghann Fahy",
-      "Brandon Sklenar",
-      "Violett Beane",
-      "Jacob Robinson",
-      "Reed Diamond"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/ffWsFHwde7M3W2IiIfn01htpALX.jpg",
+        "character": "Sonu Model / Laila",
+        "name": "Vishwak Sen"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/aqPeJiZLSTDQnNmQPvchS1FlBVA.jpg",
+        "character": "Jenny",
+        "name": "Akansha Sharma"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/lnRXcRebSmfJaSaRqTt91o1vkhE.jpg",
+        "character": "Shankar \"Shanku\"",
+        "name": "Babloo Prithiveeraj"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/ucGZIeHvG9SsW9B94InteMyOlpD.jpg",
+        "character": "Rusthom",
+        "name": "Abhimanyu Singh"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/qAOIqG6kjysnSDlhkueQ7XaLc7t.jpg",
+        "character": "Khaidi",
+        "name": "Vineet Kumar"
+      }
     ],
     "year": "2025",
+    "release_date": "2025-02-14",
     "genres": [
-      "Mystery",
-      "Thriller"
-    ],
-    "link": "https://www.themoviedb.org/movie/1249213",
-    "title": "Drop"
-  },
-  {
-    "overview": "Stephanie and Emily reunite on the beautiful island of Capri, Italy for Emily's extravagant wedding to a rich Italian businessman. Along with the glamorous guests, expect murder and betrayal to RSVP for a wedding with more twists and turns than the road from the Marina Grande to the Capri town square.",
-    "image": "https://image.tmdb.org/t/p/w500//zboCGZ4aIqPMd7VFI4HWnmc7KYJ.jpg",
-    "actors": [
-      "Anna Kendrick",
-      "Blake Lively",
-      "Michele Morrone",
-      "Henry Golding",
-      "Allison Janney"
-    ],
-    "year": "2025",
-    "genres": [
-      "Thriller",
       "Comedy",
-      "Crime"
+      "Romance"
     ],
-    "link": "https://www.themoviedb.org/movie/974573",
-    "title": "Another Simple Favor"
+    "rating": 5,
+    "link": "https://www.themoviedb.org/movie/1403735",
+    "title": "లైలా"
   },
   {
-    "overview": "After the G20 Summit is overtaken by terrorists, President Danielle Sutton must bring all her statecraft and military experience to defend her family and her fellow leaders.",
-    "image": "https://image.tmdb.org/t/p/w500//wv6oWAleCJZUk5htrGg413t3GCy.jpg",
+    "overview": "影片敘述莫娜在與合作無間的毛伊展開浩瀚無際的冒險航程三年後，再度受到為她指路的祖先們召喚，令她必須展開一場遠渡大洋洲並深入前所未知的危險水域、迎向更勝以往的偉大冒險，並企圖聯繫四散汪洋的族人！",
+    "image": "https://image.tmdb.org/t/p/w500/vyAk20KmD0GVp95ZcOgDkoXKq30.jpg",
     "actors": [
-      "Viola Davis",
-      "Anthony Anderson",
-      "Marsai Martin",
-      "Ramón Rodríguez",
-      "Antony Starr"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/vEroqcnM2g6yY7qXDAie7hx2Cyp.jpg",
+        "character": "Moana (voice)",
+        "name": "Auliʻi Cravalho"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg",
+        "character": "Maui (voice)",
+        "name": "巨石強森"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/x2g5fdHqETY9dZgL4aB0QDP0boR.jpg",
+        "character": "Moni (voice)",
+        "name": "Hualālai Chung"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/zQa39fMjbOTIsovbh1TBTJVlToz.jpg",
+        "character": "Loto (voice)",
+        "name": "Rose Matafeo"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/tcozyaTgAa8rRmzc5qeht0loni6.jpg",
+        "character": "Kele (voice)",
+        "name": "大衛·法恩"
+      }
+    ],
+    "year": "2024",
+    "release_date": "2024-11-21",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Comedy"
+    ],
+    "rating": 7.078,
+    "link": "https://www.themoviedb.org/movie/1241982",
+    "title": "海洋奇緣2"
+  },
+  {
+    "overview": "在這部絕無冷場的驚悚動作片中，二十大工業國峰會突然遭受攻擊，美國總統丹妮兒沙頓 成為頭號目標。從歹徒手中逃脫的她不得不與對方鬥智，保衛家國並守護各國領袖的安全。",
+    "image": "https://image.tmdb.org/t/p/w500/mI8aK7WJzueBVXJhH0wYua1gMk7.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/xDssw6vpYNRjsybvMPRE30e0dPN.jpg",
+        "character": "President Danielle Sutton",
+        "name": "薇拉·戴維絲"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/reO1OjwFdtXmiO4LMDaBj6eatzK.jpg",
+        "character": "Derek Sutton",
+        "name": "Anthony Anderson"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/hYErUiiesrm9jmiY1JTbwlxcN7l.jpg",
+        "character": "Serena Sutton",
+        "name": "Marsai Martin"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/1gobmVevxCWVhV7s6J2B0oWPDZj.jpg",
+        "character": "Agent Manny Ruiz",
+        "name": "拉蒙·羅德里格斯"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/yZx1AkgS8SJjRYd20V0IEfRGtpl.jpg",
+        "character": "Rutledge",
+        "name": "安東尼·史達"
+      }
     ],
     "year": "2025",
+    "release_date": "2025-04-09",
     "genres": [
       "Action",
       "Mystery",
       "Drama"
     ],
+    "rating": 6.567,
     "link": "https://www.themoviedb.org/movie/1045938",
-    "title": "G20"
+    "title": "G20危機"
   },
   {
-    "overview": "When the girl of his dreams is kidnapped, everyman Nate turns his inability to feel pain into an unexpected strength in his fight to get her back.",
-    "image": "https://image.tmdb.org/t/p/w500//xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
+    "overview": "一個性情溫和內向的男人天生就患有一種罕見的遺傳疾病，使得他對身體的疼痛很無感。當他的愛人在銀行搶劫案中被劫為人質時，他的\u201d疾病\u201d竟變成了他的超能力。",
+    "image": "https://image.tmdb.org/t/p/w500/fBvJXfqqw038Vn8yftwsdijV5zu.jpg",
     "actors": [
-      "Jack Quaid",
-      "Amber Midthunder",
-      "Ray Nicholson",
-      "Jacob Batalon",
-      "Betty Gabriel"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/320qW5yEbxpmyxQ3evmClJbtKag.jpg",
+        "character": "Nate",
+        "name": "傑克·奎德"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/f8VWGyaIS38NkDIzQ2hapXKt0N5.jpg",
+        "character": "Sherry",
+        "name": "安柏·米桑德"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/f0MRbGIyTEJLJgHedJS8pRFhGn4.jpg",
+        "character": "Simon",
+        "name": "雷·尼克遜"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg",
+        "character": "Roscoe",
+        "name": "雅各布·貝塔隆"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/n67i3H3VM5quDQfcS591EbotPby.jpg",
+        "character": "Mincy",
+        "name": "貝蒂·加布裏埃爾"
+      }
     ],
     "year": "2025",
+    "release_date": "2025-03-12",
     "genres": [
       "Action",
       "Comedy",
       "Thriller"
     ],
+    "rating": 6.913,
     "link": "https://www.themoviedb.org/movie/1195506",
-    "title": "Novocaine"
+    "title": "無痛先生"
   },
   {
-    "overview": "Sonu Model, a renowned beautician from the old city, is forced to disguise himself as Laila, leading to a series of comedic, romantic, and action-packed events. Chaos ensues in this hilarious laugh riot",
-    "image": "https://image.tmdb.org/t/p/w500//l4gsNxFPGpzbq0D6QK1a8vO1lBz.jpg",
+    "overview": "故事開始由拉飛奇為辛巴與娜娜的小獅子女兒琪拉雅敘述榮耀國傳奇木法沙的故事，更由澎澎與丁滿在旁為故事加入幽默又搞笑的見解。故事以回述方式呈現\u2026木法沙曾是一個孤兒幼獅，徬徨漂泊異地，直到他遇見了溫暖的皇室繼承人塔卡，這場相遇開啟了一場不凡的旅程，一路上更碰到了一群看似格格不入的旅伴，友情卻將它們緊緊相連。它們相互扶持抗致命的威脅，命運也考驗著他們的連結\u2026",
+    "image": "https://image.tmdb.org/t/p/w500/c2wpotRQdZeGoaoJQzr7MQpJBjE.jpg",
     "actors": [
-      "Vishwak Sen",
-      "Akanksha Sharma",
-      "Babloo Prithiveeraj",
-      "Abhimanyu Singh",
-      "Vineet Kumar"
-    ],
-    "year": "2025",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "link": "https://www.themoviedb.org/movie/1403735",
-    "title": "Laila"
-  },
-  {
-    "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
-    "image": "https://image.tmdb.org/t/p/w500//lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
-    "actors": [
-      "Aaron Pierre",
-      "Kelvin Harrison, Jr.",
-      "Tiffany Boone",
-      "Kagiso Lediga",
-      "Preston Nyman"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg",
+        "character": "Mufasa (voice)",
+        "name": "亞倫·皮埃爾"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/uRViX11fZQGmO9p91ZH7QVh2l5y.jpg",
+        "character": "Taka (voice)",
+        "name": "小凱文·哈里森"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/9LwqRFdSzxVtnutDUg98YLq0bSz.jpg",
+        "character": "Sarabi (voice)",
+        "name": "Tiffany Boone"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/nfqx3CqFVsAMelk6ry560SuN7Y0.jpg",
+        "character": "Young Rafiki (voice)",
+        "name": "Kagiso Lediga"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/eidKvLDCRw68tG3CN6fGhvHUnW.jpg",
+        "character": "Zazu (voice)",
+        "name": "Preston Nyman"
+      }
     ],
     "year": "2024",
+    "release_date": "2024-12-18",
     "genres": [
       "Adventure",
       "Family",
       "Animation"
     ],
+    "rating": 7.417,
     "link": "https://www.themoviedb.org/movie/762509",
-    "title": "Mufasa: The Lion King"
+    "title": "獅子王：木法沙"
   },
   {
-    "overview": "When an old acquaintance is murdered, Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax, to help. In partnership with Marybeth Medina, they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.",
-    "image": "https://image.tmdb.org/t/p/w500//kMDUS7VmFhb2coRfVBoGLR8ADBt.jpg",
+    "overview": "故事時間點設定在《美國隊長3 : 英雄內戰》之後，娜塔莎因為幫助了美國隊長而踏上流亡之路，當她發現一個與過去有關的陰謀時，她必須全球追蹤，回頭面對她神祕的間諜生涯，同時逃過反派「模仿大師」的追殺。",
+    "image": "https://image.tmdb.org/t/p/w500/wZxIikqnxLx2peKdhQPcuK4ofV7.jpg",
     "actors": [
-      "Ben Affleck",
-      "Jon Bernthal",
-      "Cynthia Addai-Robinson",
-      "J.K. Simmons",
-      "Daniella Pineda"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/6NsMbJXRlDZuDzatN2akFdGuTvx.jpg",
+        "character": "Natasha Romanoff / Black Widow",
+        "name": "史嘉蕾·喬韓森"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg",
+        "character": "Yelena Belova",
+        "name": "佛蘿倫絲·普伊"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/9tfHL5tholha1YF6bSKt422ETPM.jpg",
+        "character": "Melina",
+        "name": "瑞秋·懷茲"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/chPekukMF5SNnW6b22NbYPqAStr.jpg",
+        "character": "Alexei",
+        "name": "大衛·哈伯"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/kDShEv6zPfArgcwXliGWKR65Mmo.jpg",
+        "character": "Dreykov",
+        "name": "雷·溫斯頓"
+      }
     ],
-    "year": "2025",
+    "year": "2021",
+    "release_date": "2021-07-07",
     "genres": [
-      "Crime",
-      "Thriller",
-      "Action"
+      "Action",
+      "Adventure",
+      "Science Fiction"
     ],
-    "link": "https://www.themoviedb.org/movie/870028",
-    "title": "The Accountant²"
+    "rating": 7.208,
+    "link": "https://www.themoviedb.org/movie/497698",
+    "title": "黑寡婦"
   },
   {
-    "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church\u2019s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
-    "image": "https://image.tmdb.org/t/p/w500//l4WXg5oQPK6GVlISKQNIUGb8rKJ.jpg",
+    "overview": "教宗驟逝，紅衣主教勞倫斯受命領導史上最古老的選舉之一「新任教宗選舉」。幾輪投票後，新任教宗人選始終沒有結果。他卻發現自己處於一場可能動搖人類未來的陰謀的中心...誰將會是下一任教宗？讓這場秘密會議充滿謎團及猜忌。",
+    "image": "https://image.tmdb.org/t/p/w500/1BWhKsbUTiBD0WQhrOfQlU6zrc5.jpg",
     "actors": [
-      "Ralph Fiennes",
-      "Stanley Tucci",
-      "John Lithgow",
-      "Isabella Rossellini",
-      "Lucian Msamati"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg",
+        "character": "Lawrence",
+        "name": "雷夫·范恩斯"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg",
+        "character": "Bellini",
+        "name": "史丹利圖奇"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/8Y1sjBdnVR483S8PrnAQzlESwhx.jpg",
+        "character": "Tremblay",
+        "name": "約翰·利思戈"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg",
+        "character": "Sister Agnes",
+        "name": "伊莎貝拉·羅塞里尼"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/vGPnCNjSL4JwVQ4yqh0XLK2GpXM.jpg",
+        "character": "Adeyemi",
+        "name": "Lucian Msamati"
+      }
     ],
     "year": "2024",
+    "release_date": "2024-10-25",
     "genres": [
       "Drama",
       "Thriller",
       "Mystery"
     ],
+    "rating": 7.211,
     "link": "https://www.themoviedb.org/movie/974576",
-    "title": "Conclave"
+    "title": "秘密會議"
   },
   {
-    "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
-    "image": "https://image.tmdb.org/t/p/w500//aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+    "overview": "音速小子即將展開一場至今最精彩刺激的冒險旅程，索尼克、納克魯斯和塔爾斯再度合作，共同對抗一個力量強大的全新敵人，夏特，一個神祕的大壞蛋，擁有他們從未面對過的強大力量。當他們發現他們的每一種能力都比不上這個大壞蛋的時候，索尼克小隊就必須找來一個沒有人會想到的盟友，希望能夠幫助他們阻止夏特，並且保護地球的安全。",
+    "image": "https://image.tmdb.org/t/p/w500/9EiBEfil3Payh16bmWYKtFYmuOe.jpg",
     "actors": [
-      "Auliʻi Cravalho",
-      "Dwayne Johnson",
-      "Hualālai Chung",
-      "Rose Matafeo",
-      "David Fane"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/u0AqTz6Y7GHPCHINS01P7gPvDSb.jpg",
+        "character": "Ivo Robotnik / Gerald Robotnik",
+        "name": "金·凱瑞"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/lJVYjPj0P6uvVxNrTy4xO2645D0.jpg",
+        "character": "Sonic (voice)",
+        "name": "班·許瓦茲"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg",
+        "character": "Shadow (voice)",
+        "name": "基努·李維"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/be1bVF7qGX91a6c5WeRPs5pKXln.jpg",
+        "character": "Knuckles (voice)",
+        "name": "伊德瑞斯·艾爾巴"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/y3Kl5tCX1XD6uyL9wefTRbEXTwj.jpg",
+        "character": "Tails (voice)",
+        "name": "Colleen O'Shaughnessey"
+      }
     ],
     "year": "2024",
+    "release_date": "2024-12-19",
     "genres": [
-      "Animation",
-      "Adventure",
-      "Family",
-      "Comedy"
+      "Action",
+      "Science Fiction",
+      "Comedy",
+      "Family"
     ],
-    "link": "https://www.themoviedb.org/movie/1241982",
-    "title": "Moana 2"
+    "rating": 7.723,
+    "link": "https://www.themoviedb.org/movie/939243",
+    "title": "音速小子3"
   },
   {
-    "overview": "Vampire death dealer Selene fends off brutal attacks from both the Lycan clan and the Vampire faction that betrayed her. With her only allies, David and his father Thomas, she must stop the eternal war between Lycans and Vampires, even if it means she has to make the ultimate sacrifice.",
-    "image": "https://image.tmdb.org/t/p/w500//v1ciDCWMG47gdT4kMyjyQbnLQQn.jpg",
+    "overview": "克里斯汀沃夫（班艾佛列克　飾演）具有破解複雜難題的天賦。當一位舊識慘遭謀殺，並留下一條「去找會計師」的神祕訊息後，沃夫不得不開始追查此案。當他發現得用更極端手段時，沃夫找了他久未連絡、同時是名頂尖殺手的弟弟布萊斯頓（強柏恩瑟　飾演）合作。兄弟倆與美國財政部副局長瑪莉貝絲麥迪納（辛西亞艾黛羅賓森　飾演）聯手，一起揭露這樁致命陰謀，卻讓他們成為冷血殺手集團的目標，這群殺手無所不用其極也要掩蓋秘密。",
+    "image": "https://image.tmdb.org/t/p/w500/qY8gDFoRncaKh0B7e9wjT5wdrAv.jpg",
     "actors": [
-      "Kate Beckinsale",
-      "Theo James",
-      "Tobias Menzies",
-      "Lara Pulver",
-      "Bradley James"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg",
+        "character": "Christian Wolff",
+        "name": "班·艾佛列克"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg",
+        "character": "Braxton Wolff",
+        "name": "強·柏恩瑟"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/5eZAiWHtgiECm666CRemqMYdOlj.jpg",
+        "character": "Marybeth Medina",
+        "name": "辛西亞·艾黛羅賓森"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg",
+        "character": "Ray King",
+        "name": "J·K·西蒙斯"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/o8h5qbyy8A0zKTRN57YOlQOafyQ.jpg",
+        "character": "Anaïs",
+        "name": "丹妮拉·皮內達"
+      }
+    ],
+    "year": "2025",
+    "release_date": "2025-04-23",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Action"
+    ],
+    "rating": 7.2,
+    "link": "https://www.themoviedb.org/movie/870028",
+    "title": "會計師2"
+  },
+  {
+    "overview": "(No Chinese description available)",
+    "image": "https://image.tmdb.org/t/p/w500/m0kojZkP1vcK9F8XSWfw9haJHKz.jpg",
+    "actors": [
+      {
+        "image": "",
+        "character": "Gordy",
+        "name": "Warren McCook"
+      },
+      {
+        "image": "",
+        "character": "Clare",
+        "name": "Emily Lamey"
+      },
+      {
+        "image": "",
+        "character": "Jimmy",
+        "name": "Rían Early"
+      },
+      {
+        "image": "",
+        "character": "Eleanor",
+        "name": "Sophie Hill"
+      },
+      {
+        "image": "",
+        "character": "Mallon",
+        "name": "Colette Lennon Dougal"
+      }
+    ],
+    "year": "2023",
+    "release_date": "2023-11-09",
+    "genres": ["Horror"],
+    "rating": 6.667,
+    "link": "https://www.themoviedb.org/movie/1136721",
+    "title": "The Glenarma Tapes"
+  },
+  {
+    "overview": "經典系列全新續章【決戰異世界：弒血之戰】延續吸血鬼與狼族存亡大戰，莎倫娜（凱特貝琴薩 飾）領軍抵禦狼族強烈攻勢竟遭受同族背叛。將與她僅存的盟友大衛（席歐詹姆斯 飾）和他的父親同時也是吸血鬼長老 托馬斯 （查爾斯丹斯 飾）攜手終止這場延燒百年的戰役，就算犧牲自我在所不惜！",
+    "image": "https://image.tmdb.org/t/p/w500/rIyS6UW3rEsaxjInt0uk307Kx3p.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/s8XboSrYMSItcCHXwYCyZPOz8Jx.jpg",
+        "character": "Selene",
+        "name": "凱特·貝琴薩"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/lSC4cMhcQeCjPFkK6qCjSGDSeR3.jpg",
+        "character": "David",
+        "name": "席歐·詹姆斯"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/phcroLRZCjLje2jeKNkNQz4Jdpn.jpg",
+        "character": "Marius",
+        "name": "托比亞斯·門基斯"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/uacMDTL4YnuJD6frGF35CHLFh43.jpg",
+        "character": "Semira",
+        "name": "拉娜·普拉芙"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/djYjl9kE2VPSO3qLnC8Jo3aD8d2.jpg",
+        "character": "Varga",
+        "name": "Bradley James"
+      }
     ],
     "year": "2016",
+    "release_date": "2016-11-24",
     "genres": [
       "Fantasy",
       "Action",
       "Thriller",
       "Science Fiction"
     ],
+    "rating": 5.898,
     "link": "https://www.themoviedb.org/movie/346672",
-    "title": "Underworld: Blood Wars"
+    "title": "決戰異世界：弒血之戰"
   },
   {
-    "overview": "A woman wakes up on a distant planet and finds the crew of her space station viciously killed. Her investigation into what happened sets in motion a terrifying chain of events.",
-    "image": "https://image.tmdb.org/t/p/w500//5Oz39iyRuztiA8XqCNVDBuy2Ut3.jpg",
+    "overview": "科幻恐怖片《灰星》中，太空站科學家芮雅醒來後發現同事都被殘忍殺害，自己卻對襲擊事件沒有任何記憶。另一名科學家布萊恩被派去營救她，兩人開始合作調查事發經過，從而引發一連串可怕的事件。",
+    "image": "https://image.tmdb.org/t/p/w500/xWcB2WfMrDmKhvNfWfZNOQX1x0E.jpg",
     "actors": [
-      "Eiza González",
-      "Aaron Paul",
-      "Iko Uwais",
-      "Kate Elliott",
-      "Beulah Koale"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/w2pZ8gLqZNguj8cqrDGbMw2Ibj0.jpg",
+        "character": "Riya",
+        "name": "Eiza González"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg",
+        "character": "Brion",
+        "name": "亞倫·保羅"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/gMm9HKBZorMDnGChbPduQ66uhxM.jpg",
+        "character": "Adhi",
+        "name": "Iko Uwais"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/gOMtf2Vqn8xsXXD4pO7CfW9wtna.jpg",
+        "character": "Clarke",
+        "name": "Kate Elliott"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/payzbNPVpNXgX5SBtWBLNWfdfuS.jpg",
+        "character": "Kevin",
+        "name": "Beulah Koale"
+      }
     ],
     "year": "2025",
+    "release_date": "2025-03-20",
     "genres": [
       "Science Fiction",
       "Horror",
       "Thriller"
     ],
+    "rating": 5.369,
     "link": "https://www.themoviedb.org/movie/931349",
-    "title": "Ash"
+    "title": "灰星"
   },
   {
-    "overview": "A serial rapist rapes a girl with mental disability for wearing a red dress, which triggers him. Now the girl's social worker vows to get revenge on the rapist.",
-    "image": "https://image.tmdb.org/t/p/w500//uCSairsy6ZtiH8dbWWLKOsj1giP.jpg",
+    "overview": "(No Chinese description available)",
+    "image": "https://image.tmdb.org/t/p/w500/hlOVKi7GtCfWavF4gNZHgKJBISc.jpg",
     "actors": [
-      "Lily Chung Suk-Wai",
-      "Money Lo Man-Yee",
-      "Ben Ng Ngai-Cheung",
-      "Bobby Yip Kin-Sang",
-      "Hui Sze-Man"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/aXq9i924gUsurXwvltMbr5Wr0E4.jpg",
+        "character": "Ming-Ming Yuk Kong",
+        "name": "鐘淑慧"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/gILZxHzs0gWLdd0gxTkq14x4k3V.jpg",
+        "character": "Ka Lok Cheung",
+        "name": "Money Lo"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/b8XO9X0e1nO0iQ9jpxLuhE7Imhv.jpg",
+        "character": "Chi Wai Chan",
+        "name": "吳毅將"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/eP1QW3hkfkQJyRoRvvPLxC6ksro.jpg",
+        "character": "Ugly Mental Patient",
+        "name": "八兩金"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/3WSFTlz8v0o7Ei0QLxPx87DOrVa.jpg",
+        "character": "",
+        "name": "許思敏"
+      }
     ],
     "year": "1994",
+    "release_date": "1994-10-20",
     "genres": ["Horror"],
+    "rating": 6.2,
     "link": "https://www.themoviedb.org/movie/39843",
-    "title": "Red to Kill"
+    "title": "弱殺"
   },
   {
-    "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
-    "image": "https://image.tmdb.org/t/p/w500//d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+    "overview": "蕾米和巴恩斯是兩個截然不同的青少年，他們在高三的冬天偶然相遇，並在一年的時間裡一起度過了四天，這段時光將永遠改變他們的人生。",
+    "image": "https://image.tmdb.org/t/p/w500/1A6C7WWYzXsVCedks98PPlmPhJA.jpg",
     "actors": [
-      "Jim Carrey",
-      "Ben Schwartz",
-      "Keanu Reeves",
-      "Idris Elba",
-      "Colleen O'Shaughnessey"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/7oUAtVgZU0uLdUSvDHKkINt1y7Y.jpg",
+        "character": "Remi",
+        "name": "珍娜·奧特嘉"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/lY5WDKbqTPI0GGhKwqM2P7bPEX4.jpg",
+        "character": "Barnes",
+        "name": "波西·海恩斯·懷特"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/qFSbLvyNPZK40hY9gZXJDvq0qVK.jpg",
+        "character": "Javier",
+        "name": "Adam Rodriguez"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/9vSFX3NqyjhKLT6EBVwuzrt9eDS.jpg",
+        "character": "Carmen",
+        "name": "Marisol Nichols"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/wJs8WDinMBPhggJMHEz5RGOgtB3.jpg",
+        "character": "PJ",
+        "name": "Elias Kacavas"
+      }
     ],
     "year": "2024",
-    "genres": [
-      "Action",
-      "Science Fiction",
-      "Comedy",
-      "Family"
-    ],
-    "link": "https://www.themoviedb.org/movie/939243",
-    "title": "Sonic the Hedgehog 3"
-  },
-  {
-    "overview": "In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.",
-    "image": "https://image.tmdb.org/t/p/w500//n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
-    "actors": [
-      "Jesse Eisenberg",
-      "Andrew Garfield",
-      "Armie Hammer",
-      "Josh Pence",
-      "Justin Timberlake"
-    ],
-    "year": "2010",
-    "genres": ["Drama"],
-    "link": "https://www.themoviedb.org/movie/37799",
-    "title": "The Social Network"
-  },
-  {
-    "overview": "Remi and Barnes, two very different teenagers, meet by chance in the winter of their senior year, then spend four  days together over the course of a year that will change their lives forever.",
-    "image": "https://image.tmdb.org/t/p/w500//mEPi5ISa5RmzpzeDfwkhX0CcNsf.jpg",
-    "actors": [
-      "Jenna Ortega",
-      "Percy Hynes White",
-      "Adam Rodriguez",
-      "Marisol Nichols",
-      "Elias Kacavas"
-    ],
-    "year": "2024",
+    "release_date": "2024-12-27",
     "genres": [
       "Romance",
       "Comedy",
       "Drama"
     ],
+    "rating": 7.218,
     "link": "https://www.themoviedb.org/movie/1059073",
-    "title": "Winter Spring Summer or Fall"
+    "title": "四季戀歌"
   },
   {
-    "overview": "A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering.",
-    "image": "https://image.tmdb.org/t/p/w500//4VOyofBd1pexblxtDZYtYIk7NI4.jpg",
+    "overview": "(No Chinese description available)",
+    "image": "https://image.tmdb.org/t/p/w500/toBN1A9AnhoUzXyu9gaVyQVJehp.jpg",
     "actors": [
-      "Anne Hathaway",
-      "Jason Sudeikis",
-      "Austin Stowell",
-      "Tim Blake Nelson",
-      "Dan Stevens"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/98ekZ0dP00CkaNGhZkMdSKwo3XZ.jpg",
+        "character": "Laura (voice)",
+        "name": "Teo Vergara"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/wOU3Sn97fsSLVXlaefMippkrA9R.jpg",
+        "character": "Gabriella (voice)",
+        "name": "Olivia Vasquez"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/5mJOdbWbOTV7cIHbHmF6oB1WE0x.jpg",
+        "character": "Luis (voice)",
+        "name": "Benjamín Gorroño"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/dWHxmP80ohfGuCBktWs448cYSEE.jpg",
+        "character": "Mani (voice)",
+        "name": "Facundo Hache Herrera"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/l6K5S3Pnxtj9JBz7qPhiHEekGpg.jpg",
+        "character": "Platy (voice)",
+        "name": "瑞米·許"
+      }
     ],
-    "year": "2017",
+    "year": "2024",
+    "release_date": "2024-07-25",
     "genres": [
-      "Drama",
-      "Fantasy",
-      "Science Fiction"
+      "Animation",
+      "Family"
     ],
-    "link": "https://www.themoviedb.org/movie/339967",
-    "title": "Colossal"
+    "rating": 6.3,
+    "link": "https://www.themoviedb.org/movie/1189423",
+    "title": "The Sloth Lane"
   },
   {
-    "overview": "Twelve-year-old Dre Parker could have been the most popular kid in Detroit, but his mother's latest career move has landed him in China. Dre immediately falls for his classmate Mei Ying but the cultural differences make such a friendship impossible. Even worse, Dre's feelings make him an enemy of the class bully, Cheng. With no friends in a strange land, Dre has nowhere to turn but maintenance man Mr. Han, who is a kung fu master. As Han teaches Dre that kung fu is not about punches and parries, but maturity and calm, Dre realizes that facing down the bullies will be the fight of his life.",
-    "image": "https://image.tmdb.org/t/p/w500//qV8xTWfknTOSErSa0b9Iay2QztS.jpg",
+    "overview": "(No Chinese description available)",
+    "image": "https://image.tmdb.org/t/p/w500/hlOVKi7GtCfWavF4gNZHgKJBISc.jpg",
     "actors": [
-      "Jaden Smith",
-      "Jackie Chan",
-      "Taraji P. Henson",
-      "Wenwen Han",
-      "Wang ZhenWei"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/aXq9i924gUsurXwvltMbr5Wr0E4.jpg",
+        "character": "Ming-Ming Yuk Kong",
+        "name": "鐘淑慧"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/gILZxHzs0gWLdd0gxTkq14x4k3V.jpg",
+        "character": "Ka Lok Cheung",
+        "name": "Money Lo"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/b8XO9X0e1nO0iQ9jpxLuhE7Imhv.jpg",
+        "character": "Chi Wai Chan",
+        "name": "吳毅將"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/eP1QW3hkfkQJyRoRvvPLxC6ksro.jpg",
+        "character": "Ugly Mental Patient",
+        "name": "八兩金"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/3WSFTlz8v0o7Ei0QLxPx87DOrVa.jpg",
+        "character": "",
+        "name": "許思敏"
+      }
+    ],
+    "year": "1994",
+    "release_date": "1994-10-20",
+    "genres": ["Horror"],
+    "rating": 6.2,
+    "link": "https://www.themoviedb.org/movie/39843",
+    "title": "弱殺"
+  },
+  {
+    "overview": "(No Chinese description available)",
+    "image": "https://image.tmdb.org/t/p/w500/O7REXWPANWXvX2jhQydHjAq2DV.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/kuFyGa2HZB7hAQTUn3WKlgKAVjm.jpg",
+        "character": "Thomas Keller",
+        "name": "Stephen Dorff"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/avYdNkeg1oTvmrNJbFDcTlBCkKs.jpg",
+        "character": "Valerie Keller",
+        "name": "Heather Graham"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/ar33qcWbEgREn07ZpXv5Pbj8hbM.jpg",
+        "character": "Ben",
+        "name": "尼可拉斯·凱吉"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/tq4njPdsUNXjnIAnPetT6B423BW.jpg",
+        "character": "Doc",
+        "name": "Randall Batinkoff"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/b9Pqy8KU4TVnLhvkASxrNmljvkE.jpg",
+        "character": "Levi",
+        "name": "Cooper Barnes"
+      }
+    ],
+    "year": "2025",
+    "release_date": "2025-04-11",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "rating": 6.5,
+    "link": "https://www.themoviedb.org/movie/1293286",
+    "title": "Gunslingers"
+  },
+  {
+    "overview": "(No Chinese description available)",
+    "image": "https://image.tmdb.org/t/p/w500/toBN1A9AnhoUzXyu9gaVyQVJehp.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/98ekZ0dP00CkaNGhZkMdSKwo3XZ.jpg",
+        "character": "Laura (voice)",
+        "name": "Teo Vergara"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/wOU3Sn97fsSLVXlaefMippkrA9R.jpg",
+        "character": "Gabriella (voice)",
+        "name": "Olivia Vasquez"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/5mJOdbWbOTV7cIHbHmF6oB1WE0x.jpg",
+        "character": "Luis (voice)",
+        "name": "Benjamín Gorroño"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/dWHxmP80ohfGuCBktWs448cYSEE.jpg",
+        "character": "Mani (voice)",
+        "name": "Facundo Hache Herrera"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/l6K5S3Pnxtj9JBz7qPhiHEekGpg.jpg",
+        "character": "Platy (voice)",
+        "name": "瑞米·許"
+      }
+    ],
+    "year": "2024",
+    "release_date": "2024-07-25",
+    "genres": [
+      "Animation",
+      "Family"
+    ],
+    "rating": 6.3,
+    "link": "https://www.themoviedb.org/movie/1189423",
+    "title": "The Sloth Lane"
+  },
+  {
+    "overview": "(No Chinese description available)",
+    "image": "https://image.tmdb.org/t/p/w500/n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/ifQcCBM5B4dIJdz4B0laO4yQuzU.jpg",
+        "character": "Ramona",
+        "name": "丹妮兒·戴德維勒"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/jJIm1dBQ3yYztPrMCwnKSJl9F0U.jpg",
+        "character": "The Woman",
+        "name": "Okwui Okpokwasili"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/lS1aBK2F2uTnM7HqejSQsCnYWBo.jpg",
+        "character": "Taylor",
+        "name": "Peyton Jackson"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/uQF4rAu6DZRXF4zHugsr1mGs8Bj.jpg",
+        "character": "Annie",
+        "name": "Estella Kahiha"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/lA2XCK2GgwVoboX3NskkKp5rxOF.jpg",
+        "character": "David",
+        "name": "Russell Hornsby"
+      }
+    ],
+    "year": "2025",
+    "release_date": "2025-03-27",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 6.2,
+    "link": "https://www.themoviedb.org/movie/1244944",
+    "title": "院子裡的女人"
+  },
+  {
+    "overview": "12歲的德瑞 因為母親被外派，而來到陌生的中國。在這裡，德瑞不但語言不通、適應不良，還被班上一群惡棍欺負，他遇上一位深藏不露的功夫大師 學習功夫，也讓他理解到功夫深奧的真理所在...。",
+    "image": "https://image.tmdb.org/t/p/w500/gTM3388yO0jLoxZvRN8cLXSLsqS.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/9DoxXYjXTb9SGH2kkWNOtqmi2Ve.jpg",
+        "character": "Dre Parker",
+        "name": "傑登·史密斯"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+        "character": "Mr. Han",
+        "name": "成龍"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/jUU2X9mDwJaAniEmJOfvImBS9qb.jpg",
+        "character": "Sherry Parker",
+        "name": "塔拉吉·P·漢森"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/86LJVLV4qcF2g6SxfDlqW1lkzZB.jpg",
+        "character": "Meiying",
+        "name": "Wenwen Han"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/bXVR7TbR8xXBT1fAwCAgLmbubq1.jpg",
+        "character": "Cheng",
+        "name": "王振威"
+      }
     ],
     "year": "2010",
+    "release_date": "2010-06-10",
     "genres": [
       "Action",
       "Adventure",
       "Drama",
       "Family"
     ],
+    "rating": 6.5,
     "link": "https://www.themoviedb.org/movie/38575",
-    "title": "The Karate Kid"
+    "title": "功夫夢"
   },
   {
-    "overview": "After a terrifying storm destroys their home, a speedy sloth named Laura and her kooky family move to the big city in their rusted old food truck, Gordito, hoping to make their business a success. The family's delicious food catches the eye of a quick-witted cheetah who will stop at nothing to revive her failing fast-food business.",
-    "image": "https://image.tmdb.org/t/p/w500//toBN1A9AnhoUzXyu9gaVyQVJehp.jpg",
+    "overview": "(No Chinese description available)",
+    "image": "https://image.tmdb.org/t/p/w500/x4IwkaXpFLtIIj5ACNEmZkqWFhP.jpg",
     "actors": [
-      "Teo Vergara",
-      "Olivia Vasquez",
-      "Benjamín Gorroño",
-      "Facundo Hache Herrera",
-      "Remy Hii"
-    ],
-    "year": "2024",
-    "genres": [
-      "Animation",
-      "Family"
-    ],
-    "link": "https://www.themoviedb.org/movie/1189423",
-    "title": "The Sloth Lane"
-  },
-  {
-    "overview": "When the most wanted man in America surfaces in a small Kentucky town, his violent history -- and a blood-thirsty mob seeking vengeance and a king\u2019s ransom -- soon follow. As brothers face off against one another and bullets tear the town to shreds, this lightning-fast gunslinger makes his enemies pay the ultimate price for their greed.",
-    "image": "https://image.tmdb.org/t/p/w500//O7REXWPANWXvX2jhQydHjAq2DV.jpg",
-    "actors": [
-      "Stephen Dorff",
-      "Heather Graham",
-      "Nicolas Cage",
-      "Randall Batinkoff",
-      "Cooper Barnes"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/hFrl2Sp1tOcNIpfIpP6M2QMDjyp.jpg",
+        "character": "",
+        "name": "Александр Кузнецов"
+      },
+      {
+        "image": "",
+        "character": "Anna",
+        "name": "Anya Chipovskaya"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/5ZJVuaUSESmviZwIyAcwE1SjpZ6.jpg",
+        "character": "Sergey",
+        "name": "Андрей Мерзликин"
+      }
     ],
     "year": "2025",
+    "release_date": "2025-05-14",
     "genres": [
-      "Western",
-      "Action"
+      "Thriller",
+      "Science Fiction"
     ],
-    "link": "https://www.themoviedb.org/movie/1293286",
-    "title": "Gunslingers"
+    "rating": 0,
+    "link": "https://www.themoviedb.org/movie/650033",
+    "title": "Свободное падение"
   },
   {
-    "overview": "Rachel Watson, devastated by her recent divorce, spends her daily commute fantasizing about the seemingly perfect couple who live in a house that her train passes every day, until one morning she sees something shocking happen there and becomes entangled in the mystery that unfolds.",
-    "image": "https://image.tmdb.org/t/p/w500//AhTO2QWG0tug7yDoh0XoaMhPt3J.jpg",
+    "overview": "背景設定在倫敦，一家能源公司在西歐最高的摩天大樓碎片大廈舉行年會，一群激進的活動家前來砸場子，劫持了300名人質以揭露東道主的腐敗。而他們的正義事業被隊伍中一個狂熱極端分子攪亂，後者準備謀殺大樓裡的所有人，向世界傳遞他的無政府主義資訊。轉機最終落在喬伊·洛克身上，她是一名前士兵，現在當窗戶清潔工，將懸掛在大樓外90層拯救被困在裡面的人並制服兇手，同時找到將腐敗的能源大亨繩之以法的方法。",
+    "image": "https://image.tmdb.org/t/p/w500/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg",
     "actors": [
-      "Emily Blunt",
-      "Rebecca Ferguson",
-      "Haley Bennett",
-      "Justin Theroux",
-      "Luke Evans"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/e77LbvRk5Qu3qtsBlpgr74GnPao.jpg",
+        "character": "Joey Locke",
+        "name": "黛西·蕾德莉"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/xlWpuLgwxMnZEVgV9OID1TkUNtP.jpg",
+        "character": "Marcus",
+        "name": "克萊夫·歐文"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/3EXMkfzB8EXn3ZJPJvK6OfPWLfz.jpg",
+        "character": "Noah",
+        "name": "Taz Skylar"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/94QKwYWawhMniYe645xfy90y0Kc.jpg",
+        "character": "Zee",
+        "name": "Flavia Watson"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/ou2cqhqdhfQoKVEBpIh0P3sKZti.jpg",
+        "character": "Kahn",
+        "name": "Ray Fearon"
+      }
+    ],
+    "year": "2025",
+    "release_date": "2025-02-19",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "rating": 6.665,
+    "link": "https://www.themoviedb.org/movie/1125899",
+    "title": "罪惡清除工"
+  },
+  {
+    "overview": "本片改編自班梅立克的小說\u201dFacebook：性愛與金錢、天才與背叛交織的祕辛\u201d，描述2003年的某夜，就讀哈佛的電腦程式鬼才馬克佐克柏因為求歡被拒，憤而在宿舍創立了一個把妹交友網站Facebook的傳奇故事。當時沒人會料到，這個網站知名度會一路從哈佛校園熱燒到全世界，不過六年的時間，Facebook全球會員人數已超過五億人口，徹底改寫社群網站的世界記錄。當年被視為宅男怪咖的佐克柏雖然搖身一變成為全球最年輕的億萬富翁，但他成功的背後，卻交織著背叛與權力的秘辛和鬥爭，而Facebook的隱私爭議和龐大商機，更讓他四處樹敵掀起更多風暴。",
+    "image": "https://image.tmdb.org/t/p/w500/gfidjwWJl6eG3vdbLOlZZa52QEO.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg",
+        "character": "Mark Zuckerberg",
+        "name": "傑西·艾森柏格"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg",
+        "character": "Eduardo Saverin",
+        "name": "安德魯·加菲爾德"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/4Z5nLW2biRjqstDMKqSaeQYAesK.jpg",
+        "character": "Cameron Winklevoss / Tyler Winklevoss",
+        "name": "Armie Hammer"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/tkDFl0BEVCUcwKR30ICeG3yCTbr.jpg",
+        "character": "Tyler Winklevoss (Body Double)",
+        "name": "Josh Pence"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/6Yk5t9RwkdkAT8Qv45934Eez2CA.jpg",
+        "character": "Sean Parker",
+        "name": "賈斯汀·提姆布萊克"
+      }
+    ],
+    "year": "2010",
+    "release_date": "2010-10-01",
+    "genres": ["Drama"],
+    "rating": 7.369,
+    "link": "https://www.themoviedb.org/movie/37799",
+    "title": "社群網戰"
+  },
+  {
+    "overview": "兩名訓練精良的特務被派駐到一座神祕的峽谷兩側看守，相隔遙遠的兩人逐漸拉近關係。當谷底的邪惡生物出現，他們必須攜手合作才能逃離峽谷中的東西。",
+    "image": "https://image.tmdb.org/t/p/w500/qGnXe6idV3M35xGwkS26ztqwSdT.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/cg3LW0xX6RKr8dmescxq1bepcb5.jpg",
+        "character": "Levi",
+        "name": "麥爾斯·泰勒"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/yZpghhtKM2VZHDx6JGAZqAVU4PL.jpg",
+        "character": "Drasa",
+        "name": "安雅·泰勒-喬伊"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg",
+        "character": "Bartholomew",
+        "name": "雪歌妮·薇佛"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/24Se9voPxrO200Ae8GQRbMkE55B.jpg",
+        "character": "J.D.",
+        "name": "蘇普·狄里蘇"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/4J4TG1dbyJcSs78hP9fU2x8jrJs.jpg",
+        "character": "Erikas",
+        "name": "William Houston"
+      }
+    ],
+    "year": "2025",
+    "release_date": "2025-02-13",
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "rating": 7.722,
+    "link": "https://www.themoviedb.org/movie/950396",
+    "title": "禁谷"
+  },
+  {
+    "overview": "在妹妹梅蘭妮失蹤的一年後，克洛娃與朋友決定前往她消失的地點，一處偏遠的村莊尋找她的蹤跡。在搜索一座被遺棄的遊客中心時，一位臉戴面具的兇殘殺手，忽然現身殺害他們，但是醒來後卻發現他們又回到死前的時間點。被困在村莊裡的他們，不斷被謀殺的慘劇持續上演，唯一不同的是，他們的死法越來越悽慘。在絕望之際，他們發現離永遠死去只剩下幾次的機會，存活的唯一機會，就是撐到黎明來臨。",
+    "image": "https://image.tmdb.org/t/p/w500/kT6rj31OS5r0jLahUAxuDlApuY6.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/8AKz6wWvokDM4N4tMGIoyv0wYsl.jpg",
+        "character": "Clover Paul",
+        "name": "艾拉·魯賓"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/jZeicDN4rlQ4uMxI1UWTeM57FFa.jpg",
+        "character": "Max",
+        "name": "Michael Cimino"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/meS7AUhkbybFiDtQyeczQ6rxO0F.jpg",
+        "character": "Nina Riley",
+        "name": "Odessa A'zion"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/4jgtqpNWhMx8XOKQ9qQJvDdzbxG.jpg",
+        "character": "Megan",
+        "name": "柳智英"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/yJwjcWwDdHkCeTLGgbKkSJdXXVc.jpg",
+        "character": "Abel",
+        "name": "Belmont Cameli"
+      }
+    ],
+    "year": "2025",
+    "release_date": "2025-04-23",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "rating": 6.5,
+    "link": "https://www.themoviedb.org/movie/1232546",
+    "title": "直到黎明"
+  },
+  {
+    "overview": "克里斯汀沃夫從小異於常人，對數字有極高的理解力，具備超越常人的認知能力及強迫型人格，長大後表面上是普通的會計師，但他也替全世界最危險的犯罪組織擔任會計工作。他正為一家合法的機器人製造公司查帳，該公司的會計帳務員戴娜發現帳務出現疑問，當他們一步步接近事實真相，死亡陰影也立刻壟罩。",
+    "image": "https://image.tmdb.org/t/p/w500/ufnfG2Y8RzG2oBFsjHpxM1kNq4G.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg",
+        "character": "Christian Wolff",
+        "name": "班·艾佛列克"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/5eZAiWHtgiECm666CRemqMYdOlj.jpg",
+        "character": "Marybeth Medina",
+        "name": "辛西亞·艾黛羅賓森"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/yirl6fEmeXY5xcvJw3nTcCNq9Cw.jpg",
+        "character": "Dana Cummings",
+        "name": "安娜·坎卓克"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg",
+        "character": "Ray King",
+        "name": "J·K·西蒙斯"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg",
+        "character": "Brax",
+        "name": "強·柏恩瑟"
+      }
     ],
     "year": "2016",
+    "release_date": "2016-10-13",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "rating": 7.102,
+    "link": "https://www.themoviedb.org/movie/302946",
+    "title": "會計師"
+  },
+  {
+    "overview": "改編自暢銷作家丹尼爾凱曼的同名小說，退休銀行家席歐 和年輕的演員妻子蘇珊娜 帶著小女兒來到威爾斯郊外一棟偏遠的宅邸度假。然而，這棟看似完美的房子卻隱藏一股邪惡力量，即將帶給席歐一家人一場駭人夢魘\u2026",
+    "image": "https://image.tmdb.org/t/p/w500/wVVZSsfzYLdrQTK7vCrQgMyQPug.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg",
+        "character": "Theo Conroy",
+        "name": "Kevin Bacon"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg",
+        "character": "Susanna",
+        "name": "阿曼達·塞佛瑞"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/6e9iONcTuA78DyLlrkuxnPp1dqX.jpg",
+        "character": "Ella",
+        "name": "Avery Tiiu Essex"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/s7q7kwY1e9uZ0eOeorD0wPgYl2X.jpg",
+        "character": "Shopkeeper",
+        "name": "Colin Blumenau"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/u9eA38kvbkD40QiEbnkXcQJpjk8.jpg",
+        "character": "Welsh Woman",
+        "name": "Lowri Ann Richards"
+      }
+    ],
+    "year": "2020",
+    "release_date": "2020-06-18",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "rating": 6.096,
+    "link": "https://www.themoviedb.org/movie/514593",
+    "title": "你本應離開"
+  },
+  {
+    "overview": "經歷過離婚打擊，整天酗酒的瑞秋，她每天搭著同班列車，觀察一對住在沿線的完美夫妻梅根和史考特。某天瑞秋在列車上目睹一個超出乎她意料的景象，之後梅根就失蹤了。瑞秋告訴警方她認為她親眼目睹的事情，但是瑞秋能夠相信她以為自己看見的事情，或者她自己也捲入這起犯罪案件之中？",
+    "image": "https://image.tmdb.org/t/p/w500/3rCrrm5gKhX1jd8JNTDIJT3WhIt.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg",
+        "character": "Rachel Watson",
+        "name": "艾蜜莉·布朗"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/lJloTOheuQSirSLXNA3JHsrMNfH.jpg",
+        "character": "Anna Watson",
+        "name": "蕾貝卡·弗格森"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/8HRgGypSwHeI27ffmcAELNoxIOw.jpg",
+        "character": "Megan Hipwell",
+        "name": "Haley Bennett"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/6YuPMsLDMoD5BRkzWIjllwFFt5Y.jpg",
+        "character": "Tom Watson",
+        "name": "賈斯汀·瑟魯"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/qUkYJcrDc4M0LHNYASs30luFvw0.jpg",
+        "character": "Scott Hipwell",
+        "name": "路克·伊凡斯"
+      }
+    ],
+    "year": "2016",
+    "release_date": "2016-10-05",
     "genres": [
       "Thriller",
       "Mystery",
       "Drama",
       "Crime"
     ],
+    "rating": 6.442,
     "link": "https://www.themoviedb.org/movie/346685",
-    "title": "The Girl on the Train"
+    "title": "列車上的女孩"
   },
   {
-    "overview": "Five high school students from different walks of life endure a Saturday detention under a power-hungry principal. The disparate group includes rebel John, princess Claire, outcast Allison, brainy Brian and Andrew, the jock. Each has a chance to tell his or her story, making the others see them a little differently -- and when the day ends, they question whether school will ever be the same.",
-    "image": "https://image.tmdb.org/t/p/w500//wM9ErA8UVdcce5P4oefQinN8VVV.jpg",
+    "overview": "(No Chinese description available)",
+    "image": "https://image.tmdb.org/t/p/w500/76qnVxU2rPdVvipBN3DPQH6fVYB.jpg",
     "actors": [
-      "Emilio Estevez",
-      "Judd Nelson",
-      "Molly Ringwald",
-      "Anthony Michael Hall",
-      "Ally Sheedy"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/h8cAdDqbDK2ayGIuxQQdNCzyCsb.jpg",
+        "character": "Judith Flores",
+        "name": "Gabriela Andrada"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/9HlLY9yECyYwCIaMxdaJQ5RH4FL.jpg",
+        "character": "Eric Zimmerman",
+        "name": "Mario Ermito"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/l32Ys5nQptZLJFRtlVJXKbK704U.jpg",
+        "character": "Mónica",
+        "name": "Celia Freijeiro"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/j0aKkDMqevgdXGZB8ciu9KMqE0K.jpg",
+        "character": "Miguel",
+        "name": "David Solans"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/zfASs4kqXPL7CmRWmqjJovwjfsu.jpg",
+        "character": "Frida",
+        "name": "Alba Ribas"
+      }
     ],
-    "year": "1985",
+    "year": "2024",
+    "release_date": "2024-11-29",
     "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "rating": 5.909,
+    "link": "https://www.themoviedb.org/movie/1252309",
+    "title": "Pídeme lo que quieras"
+  },
+  {
+    "overview": "蕾米和巴恩斯是兩個截然不同的青少年，他們在高三的冬天偶然相遇，並在一年的時間裡一起度過了四天，這段時光將永遠改變他們的人生。",
+    "image": "https://image.tmdb.org/t/p/w500/1A6C7WWYzXsVCedks98PPlmPhJA.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/7oUAtVgZU0uLdUSvDHKkINt1y7Y.jpg",
+        "character": "Remi",
+        "name": "珍娜·奧特嘉"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/lY5WDKbqTPI0GGhKwqM2P7bPEX4.jpg",
+        "character": "Barnes",
+        "name": "波西·海恩斯·懷特"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/qFSbLvyNPZK40hY9gZXJDvq0qVK.jpg",
+        "character": "Javier",
+        "name": "Adam Rodriguez"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/9vSFX3NqyjhKLT6EBVwuzrt9eDS.jpg",
+        "character": "Carmen",
+        "name": "Marisol Nichols"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/wJs8WDinMBPhggJMHEz5RGOgtB3.jpg",
+        "character": "PJ",
+        "name": "Elias Kacavas"
+      }
+    ],
+    "year": "2024",
+    "release_date": "2024-12-27",
+    "genres": [
+      "Romance",
       "Comedy",
       "Drama"
     ],
-    "link": "https://www.themoviedb.org/movie/2108",
-    "title": "The Breakfast Club"
+    "rating": 7.2,
+    "link": "https://www.themoviedb.org/movie/1059073",
+    "title": "四季戀歌"
   },
   {
-    "overview": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.",
-    "image": "https://image.tmdb.org/t/p/w500//fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg",
+    "overview": "在一場嚴重的意外中，太空船駕駛米爾斯墜落在一個神祕的星球上，不過他很快地發現，這裡原來是6500萬年前的地球。為了尋求一線生機，米爾斯必須與另一位生存者柯雅結伴，穿越危機四伏的未知世界，並且在遠古生物的威脅下奮力生存。",
+    "image": "https://image.tmdb.org/t/p/w500/jsUVzlbyzwvTMUFWIJlBkaFoSdS.jpg",
     "actors": [
-      "Ben Affleck",
-      "Cynthia Addai-Robinson",
-      "Anna Kendrick",
-      "J.K. Simmons",
-      "Jon Bernthal"
-    ],
-    "year": "2016",
-    "genres": [
-      "Crime",
-      "Thriller",
-      "Drama"
-    ],
-    "link": "https://www.themoviedb.org/movie/302946",
-    "title": "The Accountant"
-  },
-  {
-    "overview": "In the aftermath of her husband's death, widow Ramona's struggle to raise her two kids is hindered by the arrival of a mysterious woman with supernatural abilities.",
-    "image": "https://image.tmdb.org/t/p/w500//n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg",
-    "actors": [
-      "Danielle Deadwyler",
-      "Okwui Okpokwasili",
-      "Peyton Jackson",
-      "Estella Kahiha",
-      "Russell Hornsby"
-    ],
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "link": "https://www.themoviedb.org/movie/1244944",
-    "title": "The Woman in the Yard"
-  },
-  {
-    "overview": "65 million years ago, the only 2 survivors of a spaceship from Somaris that crash-landed on Earth, must fend off dinosaurs to reach the escape vessel in time before an imminent asteroid strike threatens to destroy the planet.",
-    "image": "https://image.tmdb.org/t/p/w500//rzRb63TldOKdKydCvWJM8B6EkPM.jpg",
-    "actors": [
-      "Adam Driver",
-      "Ariana Greenblatt",
-      "Chloe Coleman",
-      "Nika King",
-      "Brian Dare"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/rsjwgpV2OukxOJ9HEiEyf4qu1vR.jpg",
+        "character": "Mills",
+        "name": "亞當·崔佛"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/3Y3Xk8jwE1Ju0zIn31zBMuD7Fkn.jpg",
+        "character": "Koa",
+        "name": "雅瑞安娜·葛林布雷"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/rTbVFZMvUViFCIa5AXlBX3P6vfR.jpg",
+        "character": "Nevine",
+        "name": "Chloe Coleman"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/fB3Z5aQoD3IqahalFS1v5oP2tvA.jpg",
+        "character": "Nevine's Mom",
+        "name": "Nika King"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/jANlbcChBYC5A7CwZgtjrs2iYXe.jpg",
+        "character": "Zoic Ship (voice) (uncredited)",
+        "name": "Brian Dare"
+      }
     ],
     "year": "2023",
+    "release_date": "2023-03-02",
     "genres": [
       "Action",
       "Adventure",
       "Science Fiction"
     ],
+    "rating": 5.979,
     "link": "https://www.themoviedb.org/movie/700391",
-    "title": "65"
+    "title": "65：恐怖行星"
   },
   {
-    "overview": "A small town is shaken by a series of ominous killings in the days leading up to a heated mayoral election.",
-    "image": "https://image.tmdb.org/t/p/w500//ohzLPC9lHUWseBgB7HRcz0GBkFb.jpg",
+    "overview": "一名飛行員運送一名美國法警和一名政府證人穿越阿拉斯加荒野的故事，機上人員的身份及意圖受到質疑，殺機重重....",
+    "image": "https://image.tmdb.org/t/p/w500/qMOOPtE2SgFMxFePEOhQGyN3ru1.jpg",
     "actors": [
-      "Naomi Grace",
-      "Devin Druid",
-      "William Russ",
-      "Amy Hargreaves",
-      "Catherine Curtin"
+      {
+        "image": "https://image.tmdb.org/t/p/w500/bTEFpaWd7A6AZVWOqKKBWzKEUe8.jpg",
+        "character": "Daryl",
+        "name": "馬克·華伯格"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/pgPJGf2wAPgoC6Bp5PBJYQV7IVt.jpg",
+        "character": "Madolyn",
+        "name": "米雪·道克利"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/oJQxl4DG0KSCtOGrpWNhYz9gUZA.jpg",
+        "character": "Winston",
+        "name": "陶佛·葛瑞斯"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/19QpURecs6wDY9G46AmT7JnTchS.jpg",
+        "character": "Van Sant (voice)",
+        "name": "Leah Remini"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/o9vhi2B5f0XfwYPNAG49nrhzDFW.jpg",
+        "character": "Hassan (voice)",
+        "name": "Maaz Ali"
+      }
+    ],
+    "year": "2025",
+    "release_date": "2025-01-22",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "rating": 6.118,
+    "link": "https://www.themoviedb.org/movie/1126166",
+    "title": "高空殺機"
+  },
+  {
+    "overview": "諾亞必須離開她的小鎮、男朋友和朋友，搬進她母親新婚丈夫的豪宅。在那裡，她遇到了她的新繼兄尼克，從一開始，他們的性格牴觸，但卻能感受到彼此的吸引力，這導致他們發展出一段禁忌的感情，他們的叛逆和暴躁的脾氣將顛覆他們的世界，令兩人瘋狂地墜入愛河。",
+    "image": "https://image.tmdb.org/t/p/w500/3OM9Uss2v8fWviSyn4FctbHL7nD.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/xlvq6OYCN6yQef4fpJQtwVyQxqr.jpg",
+        "character": "Noah Morgan",
+        "name": "妮可·瓦勒斯"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/pviRYKEEmoPUfLYwP1VHJ6LQcRg.jpg",
+        "character": "Nick Leister",
+        "name": "Gabriel Guevara"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/1dbeTFRCbWBt70dIGjYHKVLnpaG.jpg",
+        "character": "Rafaela",
+        "name": "Marta Hazas"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/woVz8D7t1VUKjFJnsTAdc8tyz5C.jpg",
+        "character": "William Leister",
+        "name": "Iván Sánchez"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/bcu0nmQvhxwTzh4csc4kuxJsQee.jpg",
+        "character": "Jenna",
+        "name": "Eva Ruiz"
+      }
+    ],
+    "year": "2023",
+    "release_date": "2023-06-08",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "rating": 7.816,
+    "link": "https://www.themoviedb.org/movie/1010581",
+    "title": "我的過錯"
+  },
+  {
+    "overview": "講述了一個小偷闖入一輛豪華SUV，卻意識到自己掉進了一個神秘人物設置的複雜而致命的陷阱。",
+    "image": "https://image.tmdb.org/t/p/w500/hhkiqXpfpufwxVrdSftzeKIANl3.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/wGQidITqyDl4Igmq9TCQjRpegsk.jpg",
+        "character": "Eddie Barrish",
+        "name": "比爾·史柯斯嘉"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/cbFWUHhk6pZKTEm48OKVM5awNNn.jpg",
+        "character": "William",
+        "name": "安東尼·霍普金斯"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/c0gWHK98HqlRNPSnbZTCIqJJQqb.jpg",
+        "character": "Sarah",
+        "name": "Ashley Cartwright"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/la3J6E12pbZHe0sE73EipKkzQOp.jpg",
+        "character": "Karl",
+        "name": "Michael Eklund"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/sr5BmpuyWFQLDQUwCSeM3rxaZuK.jpg",
+        "character": "Butter",
+        "name": "Navid Charkhi"
+      }
+    ],
+    "year": "2025",
+    "release_date": "2025-03-20",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "rating": 6.285,
+    "link": "https://www.themoviedb.org/movie/1083968",
+    "title": "緊鎖"
+  },
+  {
+    "overview": "在激烈的市長選舉前幾天，發生了一系列不祥的殺戮事件，令一座小鎮震驚不已。",
+    "image": "https://image.tmdb.org/t/p/w500/ohzLPC9lHUWseBgB7HRcz0GBkFb.jpg",
+    "actors": [
+      {
+        "image": "https://image.tmdb.org/t/p/w500/fZKOPYAarRHHewGS6lL709LlUdR.jpg",
+        "character": "Allison Chambers",
+        "name": "Naomi Grace"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/nX5sYqPUNEpLTy2N3ndzKlCwnlD.jpg",
+        "character": "Adam Faulkner",
+        "name": "Devin Druid"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/yRPxz25nks8FQIQGU84fqrkdWqj.jpg",
+        "character": "Mr. Jackson",
+        "name": "William Russ"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/jwE1G6jVtBi20ZGjC8U4GOWSIxw.jpg",
+        "character": "Blair Gladwell",
+        "name": "艾米·哈格里夫斯"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/w500/giB5pkibdukMBHAE0yLGs1JsPOH.jpg",
+        "character": "Commissioner Peterson",
+        "name": "Catherine Curtin"
+      }
     ],
     "year": "2024",
+    "release_date": "2024-01-19",
     "genres": [
       "Horror",
       "Thriller",
       "Comedy"
     ],
+    "rating": 4.6,
     "link": "https://www.themoviedb.org/movie/1055451",
-    "title": "Founders Day"
-  },
-  {
-    "overview": "When Eddie breaks into a luxury SUV, he steps into a deadly trap set by William, a self-proclaimed vigilante delivering his own brand of twisted justice. With no means of escape, Eddie must fight to survive in a ride where escape is an illusion, survival is a nightmare, and justice shifts into high gear.",
-    "image": "https://image.tmdb.org/t/p/w500//hhkiqXpfpufwxVrdSftzeKIANl3.jpg",
-    "actors": [
-      "Bill Skarsgård",
-      "Anthony Hopkins",
-      "Ashley Cartwright",
-      "Michael Eklund",
-      "Navid Charkhi"
-    ],
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "link": "https://www.themoviedb.org/movie/1083968",
-    "title": "Locked"
-  },
-  {
-    "overview": "When a group of radical activists take over an energy company's annual gala, seizing 300 hostages, an ex-soldier turned window cleaner suspended 50 storeys up on the outside of the building must save those trapped inside, including her younger brother.",
-    "image": "https://image.tmdb.org/t/p/w500//mwzDApMZAGeYCEVjhegKvCzDX0W.jpg",
-    "actors": [
-      "Daisy Ridley",
-      "Clive Owen",
-      "Taz Skylar",
-      "Flavia Watson",
-      "Ray Fearon"
-    ],
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "link": "https://www.themoviedb.org/movie/1125899",
-    "title": "Cleaner"
-  },
-  {
-    "overview": "When her husband's sex game goes wrong, Jessie (who is handcuffed to a bed in a remote lake house) faces warped visions, dark secrets and a dire choice.",
-    "image": "https://image.tmdb.org/t/p/w500//32dippiypDdaKv7XFEfUlQ7kPup.jpg",
-    "actors": [
-      "Carla Gugino",
-      "Bruce Greenwood",
-      "Henry Thomas",
-      "Chiara Aurelia",
-      "Kate Siegel"
-    ],
-    "year": "2017",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "link": "https://www.themoviedb.org/movie/343674",
-    "title": "Gerald's Game"
-  },
-  {
-    "overview": "One year after her sister Melanie mysteriously disappeared, Clover and her friends head into the remote valley where she vanished in search of answers. Exploring an abandoned visitor center, they find themselves stalked by a masked killer and horrifically murdered one by one\u2026only to wake up and find themselves back at the beginning of the same evening.",
-    "image": "https://image.tmdb.org/t/p/w500//6O9nkcmZBymDXtxOGJmulqcxJdv.jpg",
-    "actors": [
-      "Ella Rubin",
-      "Michael Cimino",
-      "Odessa A'zion",
-      "Ji-young Yoo",
-      "Belmont Cameli"
-    ],
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "link": "https://www.themoviedb.org/movie/1232546",
-    "title": "Until Dawn"
-  },
-  {
-    "overview": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
-    "image": "https://image.tmdb.org/t/p/w500//yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
-    "actors": [
-      "Robert Pattinson",
-      "Benny Safdie",
-      "Buddy Duress",
-      "Taliah Webster",
-      "Jennifer Jason Leigh"
-    ],
-    "year": "2017",
-    "genres": [
-      "Crime",
-      "Thriller",
-      "Drama"
-    ],
-    "link": "https://www.themoviedb.org/movie/429200",
-    "title": "Good Time"
-  },
-  {
-    "overview": "In postwar Vienna, Austria, Holly Martins, a writer of pulp Westerns, arrives penniless as a guest of his childhood chum Harry Lime, only to learn he has died. Martins develops a conspiracy theory after learning of a \"third man\" present at the time of Harry's death, running into interference from British officer Major Calloway, and falling head-over-heels for Harry's grief-stricken lover, Anna.",
-    "image": "https://image.tmdb.org/t/p/w500//rO2Fq0AZZx9obs52KJdx4mRE8p5.jpg",
-    "actors": [
-      "Joseph Cotten",
-      "Alida Valli",
-      "Trevor Howard",
-      "Orson Welles",
-      "Paul Hörbiger"
-    ],
-    "year": "1949",
-    "genres": [
-      "Thriller",
-      "Mystery"
-    ],
-    "link": "https://www.themoviedb.org/movie/1092",
-    "title": "The Third Man"
-  },
-  {
-    "overview": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
-    "image": "https://image.tmdb.org/t/p/w500//k82T5L1utX1G2LhNWeza9nGUKPk.jpg",
-    "actors": [
-      "Gabriela Andrada",
-      "Mario Ermito",
-      "Celia Freijeiro",
-      "David Solans",
-      "Alba Ribas"
-    ],
-    "year": "2024",
-    "genres": [
-      "Romance",
-      "Drama"
-    ],
-    "link": "https://www.themoviedb.org/movie/1252309",
-    "title": "Ask Me What You Want"
-  },
-  {
-    "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
-    "image": "https://image.tmdb.org/t/p/w500//vZIJxGnjcswPCAa52jhbl01FQkV.jpg",
-    "actors": [
-      "Gustav Fröhlich",
-      "Brigitte Helm",
-      "Alfred Abel",
-      "Rudolf Klein-Rogge",
-      "Theodor Loos"
-    ],
-    "year": "1927",
-    "genres": [
-      "Drama",
-      "Science Fiction"
-    ],
-    "link": "https://www.themoviedb.org/movie/19",
-    "title": "Metropolis"
-  },
-  {
-    "overview": "Two highly-trained operatives are appointed to posts in guard towers on opposite sides of a vast and highly classified gorge, protecting the world from an undisclosed, mysterious evil that lurks within. They bond from a distance while trying to stay vigilant in defending against an unseen enemy. When the cataclysmic threat to humanity is revealed to them, they must work together in a test of both their physical and mental strength to keep the secret in the gorge before it\u2019s too late.",
-    "image": "https://image.tmdb.org/t/p/w500//7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
-    "actors": [
-      "Miles Teller",
-      "Anya Taylor-Joy",
-      "Sigourney Weaver",
-      "Sope Dirisu",
-      "William Houston"
-    ],
-    "year": "2025",
-    "genres": [
-      "Romance",
-      "Science Fiction",
-      "Thriller"
-    ],
-    "link": "https://www.themoviedb.org/movie/950396",
-    "title": "The Gorge"
-  },
-  {
-    "overview": "The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.",
-    "image": "https://image.tmdb.org/t/p/w500//kSf9svfL2WrKeuK8W08xeR5lTn8.jpg",
-    "actors": [
-      "Jim Caviezel",
-      "Mira Sorvino",
-      "Bill Camp",
-      "Gerardo Taracena",
-      "Kurt Fuller"
-    ],
-    "year": "2023",
-    "genres": [
-      "Action",
-      "Drama"
-    ],
-    "link": "https://www.themoviedb.org/movie/678512",
-    "title": "Sound of Freedom"
-  },
-  {
-    "overview": "A U.S. Marshal escorts a government witness to trial after he's accused of getting involved with a mob boss, only to discover that the pilot who is transporting them is also a hitman sent to assassinate the informant. After they subdue him, they're forced to fly together after discovering that there are others attempting to eliminate them.",
-    "image": "https://image.tmdb.org/t/p/w500//q0bCG4NX32iIEsRFZqRtuvzNCyZ.jpg",
-    "actors": [
-      "Mark Wahlberg",
-      "Michelle Dockery",
-      "Topher Grace",
-      "Leah Remini",
-      "Maaz Ali"
-    ],
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "link": "https://www.themoviedb.org/movie/1126166",
-    "title": "Flight Risk"
+    "title": "選舉日"
   }
 ]
