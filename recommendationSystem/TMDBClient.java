@@ -1,3 +1,4 @@
+package compile;
 
 import okhttp3.*;
 import com.fasterxml.jackson.databind.JsonNode;
@@ -15,7 +16,7 @@ public class TMDBClient {
     public List<Movie> getSimilarMovies(int movieId) throws IOException {
         // url為API請求的網址
         String url = TMDBConfig.BASE_URL + movieId + "/similar?api_key=" + TMDBConfig.API_KEY
-                + "&language=en-US&page=1";
+                + "&language=zh-TW&page=1";
 
         Request request = new Request.Builder().url(url).build();
         try (Response response = client.newCall(request).execute()) {
@@ -28,37 +29,20 @@ public class TMDBClient {
             List<Movie> similarMovies = new ArrayList<>();
 
             for (JsonNode movie : root.get("results")) {
-                int id = movie.get("id").asInt();
                 String title = movie.get("title").asText();
-                similarMovies.add(new Movie(id, title));
+                String posterPath = "https://image.tmdb.org/t/p/w440_andh660_face" + movie.get("poster_path").asText();
+                String link = "https://www.themoviedb.org/movie/" + movie.get("id").asInt();
+                String ID = movie.get("id").asText();
+                String overview = movie.get("overview").asText();
+                ArrayList<String> genres = new ArrayList<>();
+                JsonNode genreArray = movie.get("genre_ids");
+                for (JsonNode genreIdNode : genreArray) { // 例如 28 是一個 JsonNode
+                    String genreId = genreIdNode.asText();
+                    genres.add(genreId);
+                }
+                similarMovies.add(new Movie(title, posterPath, link, ID, overview, genres, false));
             }
-
             return similarMovies;
         }
     }
-
-    // public static void main(String[] args) {
-    // String url =
-    // "https://api.themoviedb.org/3/search/movie?query=Inception&api_key=" +
-    // TMDBConfig.API_KEY;
-
-    // OkHttpClient client = new OkHttpClient();
-    // ObjectMapper mapper = new ObjectMapper();
-
-    // Request request = new Request.Builder().url(url).build();
-
-    // try (Response response = client.newCall(request).execute()) {
-    // if (response.isSuccessful()) {
-    // String json = response.body().string();
-    // JsonNode root = mapper.readTree(json);
-    // for (JsonNode movie : root.get("results")) {
-    // System.out.println(movie.get("title").asText());
-    // }
-    // } else {
-    // System.out.println("HTTP error: " + response.code());
-    // }
-    // } catch (IOException e) {
-    // e.printStackTrace();
-    // }
-    // }
 }

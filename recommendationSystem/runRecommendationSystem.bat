@@ -1,6 +1,6 @@
 @echo off
 echo Compile...
-javac -cp "lib/*" *.java
+javac -d . -cp "lib/*" *.java
 
 if errorlevel 1 (
     echo Fail
@@ -10,7 +10,7 @@ if errorlevel 1 (
 
 echo compile successfully, run the program...
 echo ----------------------------
-java -cp ".;lib/*" Main
+java -cp ".;lib/*" compile/Main
 
 echo ----------------------------
 echo Finish!
