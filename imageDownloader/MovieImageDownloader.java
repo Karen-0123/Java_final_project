@@ -1,198 +1,89 @@
 import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import java.nio.charset.StandardCharsets;
 import java.nio.file.*;
 import java.util.*;
-import org.json.JSONArray;
-import org.json.JSONObject;
+import org.json.*;
 
 public class MovieImageDownloader {
+    private static final String API_KEY = "86d39449bb17fd1414156ecdb7e24d8b";
     private static final String BASE_URL = "https://image.tmdb.org/t/p/w500";
+    private static final String MOVIE_API = "https://api.themoviedb.org/3/movie/";
     private static final String OUTPUT_DIR = "movie_images";
-    private List<Movie> movies = new ArrayList<>();
-
-    public static void main(String[] args) {
-        MovieImageDownloader downloader = new MovieImageDownloader();
-        downloader.loadMoviesFromFile("movieDataCrawler/movies.json");
-        downloader.showMenu();
-    }
 
     public MovieImageDownloader() {
         createOutputDirectory();
     }
 
     private void createOutputDirectory() {
-        File posterDir = new File("movie_images/posters");
-        File actorDir = new File("movie_images/actors");
-
-        if (posterDir.mkdirs()) {
-            System.out.println("Poster directory created.");
-        }
-        if (actorDir.mkdirs()) {
-            System.out.println("Actor directory created.");
-        }
+        new File(OUTPUT_DIR + "/posters").mkdirs();
+        new File(OUTPUT_DIR + "/actors").mkdirs();
     }
 
-    public void loadMoviesFromFile(String pathStr) {
+    public void downloadByMovieId(int movieId) {
         try {
-            Path path = Paths.get(pathStr);
-            if (!Files.exists(path)) {
-                path = Paths.get("..", pathStr);
-                if (!Files.exists(path)) {
-                    System.err.println("Could not find the file: " + pathStr);
-                    return;
-                }
+            
+            JSONObject movie = fetchJsonFromUrl(MOVIE_API + movieId + "?api_key=" + API_KEY);
+            JSONObject credits = fetchJsonFromUrl(MOVIE_API + movieId + "/credits?api_key=" + API_KEY);
+
+            if (movie == null || credits == null) {
+                System.out.println("Failed to retrieve movie data.");
+                return;
             }
 
-            String content = Files.readString(path, StandardCharsets.UTF_8);
-            JSONArray jsonArray = new JSONArray(content);
+            String title = movie.optString("title", "unknown");
+            int year = movie.optString("release_date", "").length() >= 4
+                    ? Integer.parseInt(movie.getString("release_date").substring(0, 4))
+                    : 0;
+            String posterPath = movie.optString("poster_path", "");
 
-            for (int i = 0; i < jsonArray.length(); i++) {
-                JSONObject obj = jsonArray.getJSONObject(i);
-                String title = obj.optString("title", "Unknown");
-                String image = obj.optString("image", "");
-                int year = obj.optInt("year", 0);
-                JSONArray actorArray = obj.optJSONArray("actors");
-                List<Actor> actors = new ArrayList<>();
+            if (!posterPath.isEmpty()) {
+                String posterUrl = BASE_URL + posterPath;
+                String filename = OUTPUT_DIR + "/posters/" + sanitize(title) + "_" + year + ".jpg";
+                if (downloadImage(posterUrl, filename)) {
+                    System.out.println("Poster saved: " + filename);
+                }
+            } else {
+                System.out.println("No poster found.");
+            }
 
-                if (actorArray != null) {
-                    for (int j = 0; j < actorArray.length(); j++) {
-                        JSONObject actorObj = actorArray.getJSONObject(j);
-                        String name = actorObj.optString("name", "Unknown");
-                        String character = actorObj.optString("character", "Unknown");
-                        String actorImg = actorObj.optString("image", "");
-                        if (!actorImg.isEmpty()) {
-                            actors.add(new Actor(name, character, actorImg));
+            JSONArray castArray = credits.optJSONArray("cast");
+            if (castArray != null) {
+                for (int i = 0; i < Math.min(5, castArray.length()); i++) {
+                    JSONObject actor = castArray.getJSONObject(i);
+                    String name = actor.optString("name", "unknown");
+                    String character = actor.optString("character", "unknown");
+                    String profilePath = actor.optString("profile_path", "");
+
+                    if (!profilePath.isEmpty()) {
+                        String actorUrl = BASE_URL + profilePath;
+                        String filename = OUTPUT_DIR + "/actors/" + sanitize(name) + ".jpg";
+                        if (downloadImage(actorUrl, filename)) {
+                            System.out.println("Downloaded actor: " + name + " as " + character);
                         }
                     }
                 }
-
-                movies.add(new Movie(title, year, image, actors));
             }
 
-            System.out.println("Loaded " + movies.size() + " movies.");
-        } catch (IOException e) {
-            System.err.println("IO error: " + e.getMessage());
         } catch (Exception e) {
-            System.err.println("Error parsing JSON: " + e.getMessage());
-            e.printStackTrace();
+            System.out.println("Error downloading movie by ID: " + e.getMessage());
         }
     }
 
-    public void showMenu() {
-        Scanner scanner = new Scanner(System.in);
-        int choice = 0;
+    private JSONObject fetchJsonFromUrl(String urlString) throws IOException {
+        URL url = new URL(urlString);
+        HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+        conn.setConnectTimeout(5000);
+        conn.setReadTimeout(5000);
+        conn.setRequestMethod("GET");
 
-        while (choice != 3) {
-            System.out.println("\n===== Movie Image Downloader =====");
-            System.out.println("1. Download movie poster");
-            System.out.println("2. Download actor photos");
-            System.out.println("3. Exit");
-            System.out.print("Enter choice: ");
-
-            try {
-                choice = Integer.parseInt(scanner.nextLine());
-                switch (choice) {
-                    case 1 -> downloadMoviePoster(scanner);
-                    case 2 -> downloadMovieActors(scanner);
-                    case 3 -> System.out.println("Exiting...");
-                    default -> System.out.println("Invalid choice.");
-                }
-            } catch (NumberFormatException e) {
-                System.out.println("Enter a valid number.");
+        if (conn.getResponseCode() == HttpURLConnection.HTTP_OK) {
+            try (InputStream in = conn.getInputStream()) {
+                String text = new String(in.readAllBytes());
+                return new JSONObject(text);
             }
         }
-
-        scanner.close();
-    }
-
-    private void downloadMoviePoster(Scanner scanner) {
-        displayMovieList();
-        System.out.print("Enter movie number: ");
-        try {
-            int index = Integer.parseInt(scanner.nextLine()) - 1;
-            if (index < 0 || index >= movies.size()) {
-                System.out.println("Invalid movie number.");
-                return;
-            }
-
-            Movie movie = movies.get(index);
-            String imageUrl = movie.imageUrl;
-            if (imageUrl == null || imageUrl.isEmpty()) {
-                System.out.println("No poster URL for this movie.");
-                return;
-            }
-
-            if (!imageUrl.startsWith("http")) {
-                imageUrl = BASE_URL + imageUrl;
-            }
-
-            String filename = "movie_images/posters/" + sanitize(movie.title) + "_" + movie.year + ".jpg";
-            if (downloadImage(imageUrl, filename)) {
-                System.out.println("Poster saved at: " + filename);
-            } else {
-                System.out.println("Failed to download poster.");
-            }
-        } catch (Exception e) {
-            System.out.println("Invalid input.");
-        }
-    }
-
-    private void downloadMovieActors(Scanner scanner) {
-        displayMovieList();
-        System.out.print("Enter movie number: ");
-        try {
-            int index = Integer.parseInt(scanner.nextLine()) - 1;
-            if (index < 0 || index >= movies.size()) {
-                System.out.println("Invalid movie number.");
-                return;
-            }
-
-            Movie movie = movies.get(index);
-            List<Actor> actors = movie.actors;
-
-            if (actors.isEmpty()) {
-                System.out.println("No actors with photos.");
-                return;
-            }
-
-            for (int i = 0; i < actors.size(); i++) {
-                System.out.println((i + 1) + ". " + actors.get(i).name + " as " + actors.get(i).character);
-            }
-
-            System.out.print("Enter actor number (0 = all): ");
-            int actorChoice = Integer.parseInt(scanner.nextLine());
-
-            if (actorChoice == 0) {
-                for (Actor actor : actors) {
-                    String url = actor.imageUrl;
-                    if (!url.startsWith("http")) {
-                        url = BASE_URL + url;
-                    }
-                    String filename = "movie_images/actors/" + sanitize(actor.name) + ".jpg";
-                    if (downloadImage(url, filename)) {
-                        System.out.println("Downloaded: " + actor.name);
-                    }
-                }
-            } else if (actorChoice > 0 && actorChoice <= actors.size()) {
-                Actor actor = actors.get(actorChoice - 1);
-                String url = actor.imageUrl;
-                if (!url.startsWith("http")) {
-                    url = BASE_URL + url;
-                }
-                String filename = "movie_images/actors/" + sanitize(actor.name) + ".jpg";
-                if (downloadImage(url, filename)) {
-                    System.out.println("Downloaded: " + actor.name);
-                } else {
-                    System.out.println("Download failed.");
-                }
-            } else {
-                System.out.println("Invalid actor number.");
-            }
-        } catch (Exception e) {
-            System.out.println("Invalid input.");
-        }
+        return null;
     }
 
     private boolean downloadImage(String urlString, String destinationPath) {
@@ -219,45 +110,12 @@ public class MovieImageDownloader {
                 System.out.println("HTTP error: " + conn.getResponseCode());
             }
         } catch (Exception e) {
-            System.out.println("Error downloading: " + e.getMessage());
+            System.out.println("Error downloading image: " + e.getMessage());
         }
         return false;
     }
 
     private String sanitize(String name) {
         return name.replaceAll("[^a-zA-Z0-9-_\\.]", "_");
-    }
-
-    private void displayMovieList() {
-        for (int i = 0; i < movies.size(); i++) {
-            System.out.println((i + 1) + ". " + movies.get(i).title + " (" + movies.get(i).year + ")");
-        }
-    }
-
-    // Inner classes
-    private static class Movie {
-        String title;
-        int year;
-        String imageUrl;
-        List<Actor> actors;
-
-        Movie(String title, int year, String imageUrl, List<Actor> actors) {
-            this.title = title;
-            this.year = year;
-            this.imageUrl = imageUrl;
-            this.actors = actors;
-        }
-    }
-
-    private static class Actor {
-        String name;
-        String character;
-        String imageUrl;
-
-        Actor(String name, String character, String imageUrl) {
-            this.name = name;
-            this.character = character;
-            this.imageUrl = imageUrl;
-        }
     }
 }
